@@ -1,0 +1,2542 @@
+Id,Label,Name,number.links,total.link.strength,documents,citations,degree,n.betweeness
+1899,"rich, l. n.",rich ln,70,74,5,178,70,0.036625
+1982,"royle, j. andrew",royle ja,60,68,18,4559,60,0.066202
+285,"broekhuis, femke",broekhuis f,55,57,4,16,55,0.011209
+1487,"miller, david",miller d,54,65,10,322,54,0.068264
+2141,"snyman, andrei",snyman a,46,46,2,15,46,0.006914
+1461,"mcnutt, j. weldon",mcnutt jw,44,45,2,92,44,0.007699
+2283,"tobler, mathias w.",tobler mw,44,44,2,116,44,0.001155
+794,"gielen, marie-charlotte",gielen mc,43,45,2,3,43,0.000256
+1164,"klein, rebecca",klein r,43,47,3,32,43,0.000256
+2258,"thapa, kanchan",thapa k,43,45,3,72,43,0.009093
+2331,"van der weyde, leanne k.",van der weyde lk,43,47,3,32,43,0.000256
+11,"adams, tempe",adams t,41,41,1,3,41,0
+897,"harmsen, bart j.",,41,41,2,100,41,0.010391
+141,"bauer, dominik",,41,41,1,3,41,0
+169,"bennitt, emily",,41,41,1,3,41,0
+255,"bowles, matthew",,41,41,1,3,41,0
+264,"brassine, alienor",,41,41,1,3,41,0
+377,"chase, michael",,41,41,1,3,41,0
+420,"collins, kai",,41,41,1,3,41,0
+461,"cozzi, gabriele",,41,41,1,3,41,0
+690,"finerty, genevieve e.",,41,41,1,3,41,0
+705,"flyman, michael, v",,41,41,1,3,41,0
+821,"golabek, krystyna",,41,41,1,3,41,0
+906,"hartley, robyn",,41,41,1,3,41,0
+931,"henley, steve",,41,41,1,3,41,0
+1029,"isden, jessica",,41,41,1,3,41,0
+1116,"keeping, derek",,41,41,1,3,41,0
+1130,"kesch, kristina",,41,41,1,3,41,0
+1174,"kokole, morulaganyi",,41,41,1,3,41,0
+1181,"kotze, robynne",,41,41,1,3,41,0
+1239,"leflore, eric",,41,41,1,3,41,0
+1430,"maude, glyn",,41,41,1,3,41,0
+1452,"mcfarlane, kevin",,41,41,1,3,41,0
+1492,"mills, gus",,41,41,1,3,41,0
+1528,"morapedi, mompoloi",,41,41,1,3,41,0
+1534,"morgan, simon",,41,41,1,3,41,0
+1603,"ngaka, keitumetse",,41,41,1,3,41,0
+1832,"proust, nicolas",,41,41,1,3,41,0
+1956,"roodbal, marnus",,41,41,1,3,41,0
+2070,"selebatso, moses",,41,41,1,3,41,0
+2173,"stein, andrew",,41,41,1,3,41,0
+2214,"sutcliff, robert",,41,41,1,3,41,0
+2303,"tshimologo, botilo",,41,41,1,3,41,0
+2419,"weise, florian j.",,41,41,1,3,41,0
+2441,"whitesell, carolyn",,41,41,1,3,41,0
+2472,"winterbach, christiaan",,41,41,1,3,41,0
+2534,"zipkin, e. f.",zipkin ef,39,46,13,532,39,0.042878
+2147,"sollmann, rahel",,37,41,6,80,37,0.010268
+961,"hines, j. e.",hines je,35,39,8,572,35,0.026497
+436,"conze, klaus-juergen",,35,35,2,64,35,0.007965
+1123,"kelly, marcella j.",,35,45,6,219,35,0.004017
+477,"cruz, paula",,34,36,2,69,34,0.002614
+550,"di bitetti, mario s.",,34,36,2,69,34,0.002614
+1737,"paviolo, agustin",,34,36,2,69,34,0.002614
+1333,"macdonald, d. w.",macdonald dw,33,38,8,154,33,0.023955
+683,"ficetola, gentile francesco",,33,47,6,70,33,0.000064
+1609,"nichols, j. d.",nichols jd,32,40,10,5392,32,0.054785
+1806,"popescu, viorel d.",,32,34,5,32,32,0.008557
+2073,"semper-pascual, asuncion",,32,39,4,45,32,0.006715
+1129,"kery, marc",,31,37,11,705,31,0.008021
+1926,"robinson, h. s.",,30,31,4,150,30,0.014296
+2467,"wilting, andreas",,30,46,5,15,30,0.003771
+1027,"isaac, nick j. b.",,29,29,3,311,29,0.016805
+664,"farris, zach j.",,29,37,4,129,29,0.001892
+1045,"jansen, patrick a.",,28,28,2,13,28,0.012218
+1674,"olmos, melva",,28,28,2,45,28,0.011878
+2170,"steenweg, robin",,28,29,3,111,28,0.005112
+1975,"rovero, f.",rovero f,27,31,5,43,27,0.024955
+1463,"mcshea, william j.",,27,39,8,211,27,0.016843
+505,"davis, courtney l.",,27,28,2,95,27,0.002458
+18,"ahumada, jorge a.",ahumada ja,26,26,3,119,26,0.024647
+767,"gardner, beth",,26,30,7,440,26,0.005282
+413,"cohen, jonathan b.",,26,29,4,51,26,0.00323
+2511,"yoccoz, nigel g.",,26,26,2,82,26,0.001921
+846,"grant, evan h. campbell",grant eh,25,27,6,492,25,0.020706
+159,"belant, jerrold l.",,25,34,6,41,25,0.019992
+2443,"whittington, jesse",,25,26,2,81,25,0.003958
+2480,"wong, seth t.",,25,35,3,6,25,0.002738
+1185,"kramer-schadt, stephanie",,24,24,2,0,24,0.005717
+148,"beaudrot, lydia",,24,24,2,24,24,0.005528
+986,"hossack, blake r.",,24,30,5,101,24,0.002543
+1774,"petracca, l. s.",,24,28,3,44,24,0.002002
+1336,"mackenzie, darryl i.",,23,28,8,5028,23,0.01143
+2108,"sigafus, brent h.",,23,27,3,89,23,0.002444
+864,"guharajan, roshan",,23,32,3,9,23,0.000056
+1373,"manenti, raoul",,23,35,4,70,23,0.000008
+658,"farhadinia, mohammad s.",,23,23,1,68,23,0
+788,"gholikhani, navid",,23,23,1,68,23,0
+886,"hamel, sandra",,23,23,1,68,23,0
+1096,"kane, mamadou d.",,23,23,1,68,23,0
+1415,"martins, quinton",,23,23,1,68,23,0
+1928,"robinson, nathaniel p.",,23,23,1,68,23,0
+2210,"sunarto, s.",,23,23,1,68,23,0
+2231,"taktehrani, ateih",,23,23,1,68,23,0
+2305,"tucker, jody m.",,23,23,1,68,23,0
+2445,"widodo, febri a.",,23,23,1,68,23,0
+2495,"wultsch, claudia",,23,23,1,68,23,0
+2215,"sutherland, christopher",,22,26,7,56,22,0.005739
+727,"frair, j. l.",,22,25,3,50,22,0.001691
+194,"bischof, richard",,22,22,2,65,22,0.001538
+1287,"lo parrino, elia",,22,31,3,54,22,0.000005
+1562,"muraro, martina",,22,31,3,54,22,0.000005
+847,"graves, tabitha a.",,21,21,2,29,21,0.018813
+1289,"loffland, helen l.",,21,21,2,28,21,0.011295
+1062,"jimenez, jose",,21,21,4,27,21,0.006498
+2337,"van strien, arco j.",,21,22,3,294,21,0.001347
+1160,"kissing, johnny",,21,28,3,11,21,0.001224
+452,"corrales-gutierrez, daniel",,21,23,2,36,21,0.000325
+2001,"salom-perez, roberto",,21,23,2,36,21,0.000325
+3,"abrams, jesse f.",,21,25,3,9,21,0.000051
+650,"falaschi, mattia",,21,31,5,18,21,0.00002
+1121,"kellner, kenneth f.",,20,21,4,27,20,0.009335
+1976,"rowcliffe, j. marcus",,20,22,4,128,20,0.006338
+904,"hart, kristen m.",,20,23,3,37,20,0.004964
+1957,"rorabaugh, james c.",,20,22,2,21,20,0.000306
+1085,"jubili, jaffly",,20,25,2,4,20,0.000015
+1265,"lietz, robin",,20,25,2,4,20,0.000015
+1776,"petrus, azrie",,20,25,2,4,20,0.000015
+1064,"jnawali, shant raj",,20,22,2,4,20,0.000012
+2257,"thapa, gokarna jung",,20,22,2,4,20,0.000012
+744,"furnas, b. j.",,19,21,10,178,19,0.020556
+2113,"sillett, t. scott",,19,19,4,100,19,0.016579
+338,"carbone, chris",,19,24,4,121,19,0.01232
+703,"fletcher, r. j., jr.",,19,20,5,322,19,0.012213
+1971,"rota, christopher t.",,19,35,7,435,19,0.008457
+1043,"janousek, william m.",,19,20,3,32,19,0.003581
+1939,"rodhouse, thomas j.",,19,22,4,79,19,0.000034
+1494,"millspaugh, joshua j.",,18,32,5,177,18,0.013761
+512,"de angelo, carlos",,18,18,2,1,18,0.003989
+2251,"termaat, tim",,18,19,2,284,18,0.000192
+136,"barzaghi, benedetta",,18,22,2,52,18,0.000001
+19,"akampurira, emmanuel",,18,18,1,0,18,0
+142,"baumann, kathrin",,18,18,1,16,18,0
+167,"benken, theodor",,18,18,1,16,18,0
+199,"bitariho, robert",,18,18,1,0,18,0
+201,"bittner, torsten",,18,18,1,16,18,0
+226,"boensel, andre",,18,18,1,16,18,0
+236,"bonn, aletta",,18,18,1,16,18,0
+254,"bowler, diana e.",,18,18,1,16,18,0
+293,"bruelheide, helge",,18,18,1,16,18,0
+321,"calderon, ana patricia",,18,18,1,32,18,0
+337,"carazo-salazar, javier",,18,18,1,32,18,0
+356,"castaneda, franklin",,18,18,1,32,18,0
+589,"drews, arne",,18,18,1,16,18,0
+621,"eichenberg, david",,18,18,1,16,18,0
+638,"espinosa, santiago",,18,18,1,0,18,0
+721,"foster, rebecca j.",,18,18,1,32,18,0
+863,"guenther, andre",,18,18,1,16,18,0
+939,"hernandez-potosme, sandra",,18,18,1,32,18,0
+943,"herrera, luis",,18,18,1,32,18,0
+1044,"jansen, florian",,18,18,1,16,18,0
+1144,"kiebou-opepa, cisquet",,18,18,1,0,18,0
+1399,"martin, emanuel h.",,18,18,1,0,18,0
+1489,"milleret, cyril",,18,18,1,0,18,0
+1530,"moreira lima, marcela guimaraes",,18,18,1,0,18,0
+1554,"mugerwa, badru",,18,18,1,0,18,0
+1760,"pereira, sandy",,18,18,1,32,18,0
+1777,"petzold, falk",,18,18,1,16,18,0
+1843,"quigley, howard",,18,18,1,32,18,0
+1927,"robinson, nathaniel",,18,18,1,32,18,0
+2003,"salvador, julia",,18,18,1,0,18,0
+2016,"santos, fernanda",,18,18,1,0,18,0
+2084,"seyring, marcel",,18,18,1,16,18,0
+2091,"sheil, douglas",,18,18,1,0,18,0
+2157,"spengler, torsten",,18,18,1,16,18,0
+2204,"suhling, frank",,18,18,1,16,18,0
+2298,"trockur, bernd",,18,18,1,16,18,0
+2316,"urbina, yahaira",,18,18,1,32,18,0
+2319,"uzabaho, eustrate",,18,18,1,0,18,0
+2326,"vallejo-vargas, andrea f.",,18,18,1,0,18,0
+2460,"willigalla, christoph",,18,18,1,16,18,0
+2524,"zeller, kathy a.",,18,18,1,32,18,0
+100,"bailey, larissa l.",,17,21,5,477,17,0.015121
+2384,"waddle, j. hardin",,17,19,6,37,17,0.009868
+373,"chandler, richard b.",,17,19,4,389,17,0.009252
+184,"beyer, dean e.",,17,22,4,38,17,0.007652
+1508,"mohamed, azlan",,17,21,2,6,17,0.000427
+1615,"niedballa, jurgen",,17,21,2,6,17,0.000427
+1611,"nicholson, emily",,17,23,3,51,17,0.000031
+1216,"lamichhane, babu r.",,17,17,3,13,17,0.00003
+105,"bal, gaelle",,17,17,1,0,17,0
+200,"bitsindou, abdon",,17,17,1,0,17,0
+202,"bjelke, ulf",,17,17,1,48,17,0
+268,"breheret, nathalie",,17,17,1,0,17,0
+306,"burbach, klaus",,17,17,1,48,17,0
+379,"chauvet, eva",,17,17,1,0,17,0
+421,"collins, tim",,17,17,1,0,17,0
+480,"curran, bryan k.",,17,17,1,0,17,0
+513,"de knijf, geert",,17,17,1,48,17,0
+714,"formia, angela",,17,17,1,0,17,0
+808,"girard, alexandre",,17,17,1,0,17,0
+809,"girondot, marc",,17,17,1,0,17,0
+816,"godley, brendan j.",,17,17,1,0,17,0
+819,"goffart, philippe",,17,17,1,48,17,0
+937,"hepper, david",,17,17,1,48,17,0
+1091,"kalkman, vincent j.",,17,17,1,48,17,0
+1432,"mavoungou, jean-gabriel",,17,17,1,0,17,0
+1458,"mckinley, trevelyan j.",,17,17,1,0,17,0
+1475,"metcalfe, kristian",,17,17,1,0,17,0
+1547,"motte, gregory",,17,17,1,48,17,0
+1677,"omeyer, lucy c. m.",,17,17,1,0,17,0
+1767,"petchell balchin, george",,17,17,1,0,17,0
+1802,"poli, laurene",,17,17,1,0,17,0
+1828,"prins, marijn d.",,17,17,1,48,17,0
+1836,"prunier, florent",,17,17,1,48,17,0
+2154,"sparrow, david",,17,17,1,48,17,0
+2279,"tilley, dominic",,17,17,1,0,17,0
+2329,"van den top, gregory g.",,17,17,1,48,17,0
+2332,"van grunsven, roy h. a.",,17,17,1,48,17,0
+2341,"vanappelghem, cedric",,17,17,1,48,17,0
+2346,"vanleeuwe, hilde",,17,17,1,0,17,0
+2392,"wallisdevries, michiel f.",,17,17,1,48,17,0
+2473,"winterholler, michael",,17,17,1,48,17,0
+1572,"muths, erin",,16,19,4,108,16,0.004008
+2106,"siegel, rodney b.",,16,21,5,75,16,0.003948
+1664,"oja, emily b.",,16,17,2,4,16,0.000302
+2046,"schmidt, joshua h.",,16,18,6,122,16,0.000055
+1771,"peterson, james t.",,16,16,3,44,16,0.000026
+2428,"wenger, seth j.",,16,16,2,16,16,0.000017
+1364,"major, richard e.",,16,19,3,36,16,0.000012
+60,"andreone, franco",,16,16,1,52,16,0
+161,"bell, christine m.",,16,16,1,19,16,0
+333,"canedoli, claudia",,16,16,1,52,16,0
+334,"cannings, syd",,16,16,1,19,16,0
+345,"carretero, miguel angel",,16,16,1,52,16,0
+776,"gaulke, sarah m.",,16,16,1,19,16,0
+910,"hatfield, richard g.",,16,16,1,19,16,0
+940,"heron, jennifer m.",,16,16,1,19,16,0
+1118,"keinath, douglas a.",,16,16,1,19,16,0
+1169,"koch, jonathan b.",,16,16,1,19,16,0
+1317,"lunghi, enrico",,16,16,1,52,16,0
+1469,"melotto, andrea",,16,16,1,52,16,0
+1581,"nanni, veronica",,16,16,1,52,16,0
+1608,"nicholas, amy c.",,16,16,1,19,16,0
+1755,"pennati, roberta",,16,16,1,52,16,0
+1901,"richardson, leif l.",,16,16,1,19,16,0
+1946,"rohde, ashley t.",,16,16,1,19,16,0
+1995,"rykken, jessica",,16,16,1,19,16,0
+2005,"salvi, daniele",,16,16,1,52,16,0
+2034,"scali, stefano",,16,16,1,52,16,0
+2035,"scari, giorgio",,16,16,1,52,16,0
+2090,"sheffield, cory s.",,16,16,1,19,16,0
+2115,"silva-rocha, iolanda",,16,16,1,52,16,0
+2193,"strange, james p.",,16,16,1,19,16,0
+2299,"tronstad, lusha m.",,16,16,1,19,16,0
+2317,"urso, arianna",,16,16,1,52,16,0
+216,"bled, florent",bled f,15,21,6,147,15,0.025013
+419,"collen, ben",,15,18,3,56,15,0.018818
+418,"collazo, jaime a.",,15,16,6,56,15,0.006873
+1448,"mccleery, r. a.",,15,18,4,49,15,0.006237
+1010,"hurtado-astaiza, johanna",,15,15,2,113,15,0.004963
+119,"barata, izabela m.",,15,15,3,11,15,0.003453
+1302,"louvrier, julie l. p.",,15,15,2,0,15,0.001921
+822,"goldberg, caren s.",,15,15,2,11,15,0.000385
+1209,"lagan, peter",,15,18,2,9,15,0.000002
+103,"baker, christopher c. m.",,15,15,1,1,15,0
+553,"diana, alex",,15,15,1,1,15,0
+994,"hua, chaolang",,15,15,1,1,15,0
+1058,"ji, yinqiu",,15,15,1,1,15,0
+1263,"li, yuanheng",,15,15,1,1,15,0
+1786,"pierce, naomi e.",,15,15,1,1,15,0
+2398,"wang, jiaxin",,15,15,1,1,15,0
+2399,"wang, lin",,15,15,1,1,15,0
+2402,"wang, zhengyang",,15,15,1,1,15,0
+2426,"wen, qingzhong",,15,15,1,1,15,0
+2493,"wu, chunying",,15,15,1,1,15,0
+2499,"xu, charles c. y.",,15,15,1,1,15,0
+2507,"yang, chunyan",,15,15,1,1,15,0
+2508,"yang, zhongxing",,15,15,1,1,15,0
+2513,"yu, douglas w.",,15,15,1,1,15,0
+1313,"lukacs, paul m.",,14,15,5,137,14,0.010799
+1231,"latif, quresh s.",,14,17,5,33,14,0.003376
+460,"cove, michael v.",,14,14,2,1,14,0.003293
+262,"brandt, laura a.",,14,20,3,20,14,0.001985
+1438,"mazzotti, frank j.",,14,20,3,20,14,0.001985
+1023,"iosif, ruben",,14,16,3,20,14,0.001699
+7,"acharya, krishna prasad",,14,14,2,24,14,0.001538
+624,"elliot, nicholas b.",,14,15,2,9,14,0.000285
+522,"decarre, julieta",,14,21,3,45,14,0.000018
+1194,"kuemmerle, tobias",,14,21,3,45,14,0.000018
+1447,"mccarthy, michael a.",,14,15,2,44,14,0.000007
+29,"alen, lukmann h.",,14,14,1,0,14,0
+192,"bijack, nelson j. c.",,14,14,1,0,14,0
+322,"calderon-parra, rafael",,14,14,1,1,14,0
+407,"cobos, cassidi",,14,14,1,1,14,0
+761,"garcia loaeza, delfino",,14,14,1,1,14,0
+762,"garcia loaeza, sarai",,14,14,1,1,14,0
+769,"garduno lopez, nancy isabel",,14,14,1,1,14,0
+880,"hall, david",,14,14,1,1,14,0
+920,"hedwall, shaula",,14,14,1,1,14,0
+982,"hon, jason",,14,14,1,0,14,0
+992,"howell, paige e.",,14,14,1,1,14,0
+1330,"maccaffery, magnus",,14,14,1,1,14,0
+1342,"macvean, susan k.",,14,14,1,1,14,0
+1404,"martinez freire, josue daniel",,14,14,1,1,14,0
+1405,"martinez garcia, jaciel",,14,14,1,1,14,0
+1406,"martinez molina, fredy",,14,14,1,1,14,0
+1407,"martinez molina, gabriel",,14,14,1,1,14,0
+1408,"martinez molina, ulises",,14,14,1,1,14,0
+1409,"martinez molina, yuridia",,14,14,1,1,14,0
+1410,"martinez villagran, agustin",,14,14,1,1,14,0
+1444,"mccall, a. hunter",,14,14,1,1,14,0
+1546,"mosley, cody b.",,14,14,1,1,14,0
+1684,"ortega-alvarez, ruben",,14,14,1,1,14,0
+1691,"owens, audrey k.",,14,14,1,1,14,0
+1941,"rodriguez marin, rosa marina",,14,14,1,1,14,0
+2013,"sanchez-gonzalez, luis a.",,14,14,1,1,14,0
+2161,"sredl, michael j.",,14,14,1,1,14,0
+2238,"tchin, ling t.",,14,14,1,0,14,0
+2280,"ting, nicholas t. k.",,14,14,1,0,14,0
+2350,"vasquez robles, rocio",,14,14,1,1,14,0
+2479,"wong, george t. n.",,14,14,1,0,14,0
+560,"dickson, brett g.",,13,13,2,101,13,0.005072
+1877,"reed, robert n.",,13,13,2,20,13,0.004585
+1190,"kroll, andrew j.",,13,19,5,94,13,0.004213
+676,"ferraz, goncalo",,13,13,3,37,13,0.003575
+1520,"montgomery, robert a.",,13,18,3,48,13,0.00317
+2088,"sharma, k.",,13,13,2,5,13,0.002685
+1830,"priotto, jose w.",,13,20,5,23,13,0.00259
+820,"goijman, andrea p.",,13,13,2,16,13,0.002417
+756,"galvez, nicolas",,13,13,2,57,13,0.001921
+1435,"mazerolle, marc j.",,13,14,4,39,13,0.000018
+912,"haugaasen, torbjorn",,13,15,3,51,13,0.000011
+385,"cherkiss, michael s.",,13,16,2,19,13,0.000002
+40,"alvarez-loayza, patricia",,13,13,1,0,13,0
+72,"aquino, jesica",,13,13,1,1,13,0
+129,"barros, yara",,13,13,1,1,13,0
+362,"catterall, carla p.",,13,13,1,29,13,0
+397,"clarke, michael f.",,13,13,1,29,13,0
+400,"cleo, falcao",,13,13,1,1,13,0
+408,"cobos, marlon e.",,13,13,1,0,13,0
+433,"contreras-diaz, rusby g.",,13,13,1,0,13,0
+455,"costa, sebastian",,13,13,1,1,13,0
+502,"davidson, ian",,13,13,1,29,13,0
+652,"falconi, manuel",,13,13,1,0,13,0
+708,"foletto, fernando",,13,13,1,1,13,0
+856,"grey, merilyn j.",,13,13,1,29,13,0
+1017,"iezzi, maria eugenia",,13,13,1,1,13,0
+1022,"ingwersen, dean",,13,13,1,29,13,0
+1201,"kutt, alex",,13,13,1,29,13,0
+1278,"lira-noriega, andres",,13,13,1,0,13,0
+1307,"loyn, richard h.",,13,13,1,29,13,0
+1311,"luis goncalves, andre",,13,13,1,0,13,0
+1329,"mac nally, ralph",,13,13,1,29,13,0
+1334,"macdonald, michael a.",,13,13,1,29,13,0
+1392,"maron, martine",,13,13,1,29,13,0
+1553,"moya, sergio",,13,13,1,1,13,0
+1671,"oliver, damon l.",,13,13,1,29,13,0
+1685,"osorio-olvera, luis",,13,13,1,0,13,0
+1712,"pardo, julia martinez",,13,13,1,1,13,0
+1796,"pizzio, esteban",,13,13,1,1,13,0
+1920,"roberto spironello, wilson",,13,13,1,0,13,0
+1924,"robino, facundo",,13,13,1,1,13,0
+1925,"robinson, doug",,13,13,1,29,13,0
+1949,"rojas gonzales, rocio del pilar",,13,13,1,0,13,0
+2081,"serrano zubileta, ingrid",,13,13,1,0,13,0
+2142,"soberon, jorge",,13,13,1,0,13,0
+2272,"thomson, james r.",,13,13,1,29,13,0
+2291,"townsend peterson, a.",,13,13,1,0,13,0
+2351,"vasquez-martinez, rodolfo",,13,13,1,0,13,0
+1953,"roloff, gary j.",,12,14,5,103,12,0.007843
+1238,"lee, myung-bok",,12,13,6,78,12,0.006775
+176,"bernard, henry",,12,12,2,151,12,0.006265
+1501,"mishra, c.",,12,12,2,6,12,0.004963
+112,"balme, guy a.",,12,12,2,26,12,0.003066
+955,"hileman, eric t.",,12,12,2,29,12,0.002304
+1103,"karpanty, sarah m.",,12,19,4,65,12,0.001921
+2281,"tingley, morgan w.",,12,13,3,38,12,0.00191
+850,"green, austin m.",,12,13,3,1,12,0.001454
+325,"calvo, jose f.",,12,19,5,44,12,0.001039
+1063,"jimenez-franco, maria v.",,12,16,4,42,12,0.001039
+2468,"wilton, clay m.",,12,18,3,25,12,0.000739
+1477,"meyer, ninon f. v.",,12,14,2,28,12,0.000256
+1532,"moreno, ricardo",,12,14,2,28,12,0.000256
+1893,"reyna-hurtado, rafael",,12,14,2,28,12,0.000256
+715,"forrester, tavis d.",,12,23,4,174,12,0.000135
+1914,"ritchie, euan g.",,12,12,2,16,12,0.000047
+716,"forsyth, david m.",,12,14,3,21,12,0.000005
+1860,"ramsey, david s. l.",,12,14,3,21,12,0.000005
+6,"acharya, bishnu prasad",,12,12,1,0,12,0
+188,"bhatta, shiv raj",,12,12,1,0,12,0
+196,"bisi, francesco",,12,19,2,2,12,0
+229,"bohara, dabal",,12,12,1,0,12,0
+467,"cremonesi, g.",,12,19,2,2,12,0
+546,"dewan, karun",,12,12,1,0,12,0
+748,"gaffi, l.",,12,19,2,2,12,0
+749,"gagliardi, a.",,12,19,2,2,12,0
+838,"gotame, bharat",,12,12,1,0,12,0
+1101,"karki, madhuri thapa",,12,12,1,0,12,0
+1366,"malla, sabita",,12,12,1,0,12,0
+1413,"martinoli, a.",,12,19,2,2,12,0
+1731,"paudel, gautam",,12,12,1,0,12,0
+1820,"preatoni, d. g.",,12,19,2,2,12,0
+2201,"subba, samundra ambuhang",,12,12,1,0,12,0
+2203,"subedi, suman",,12,12,1,0,12,0
+2411,"wauters, l. a.",,12,19,2,2,12,0
+2522,"zaw, t.",,12,19,2,2,12,0
+1739,"pavlacky, david l.",,11,13,4,88,11,0.015188
+835,"gopalaswamy, a. m.",,11,11,2,39,11,0.008782
+1650,"o'neil, shawn t.",,11,11,2,24,11,0.005454
+698,"fleishman, erica",,11,14,4,14,11,0.004548
+1395,"marra, peter p.",,11,11,3,80,11,0.003913
+156,"beissinger, steven r.",,11,11,2,10,11,0.003066
+1479,"michel, n. l.",,11,11,2,5,11,0.003066
+2177,"stevens, bryan s.",,11,13,4,34,11,0.003066
+416,"cole, jerry s.",,11,14,3,15,11,0.002787
+1696,"pacifici, krishna",,11,12,3,11,11,0.001922
+2276,"thorson, james t.",,11,11,2,99,11,0.001155
+2151,"sovie, adia r.",,11,12,3,30,11,0.00089
+1775,"petroelje, tyler r.",,11,13,2,7,11,0.000704
+389,"chiarello, a. g.",,11,11,2,36,11,0.000518
+1112,"kays, roland w.",,11,25,4,165,11,0.000294
+1719,"parsons, arielle w.",,11,25,4,165,11,0.000294
+604,"dugger, katie m.",,11,11,3,72,11,0.000039
+2505,"yamaura, yuichi",,11,11,3,43,11,0.000012
+884,"halstead, brian j.",,11,11,2,15,11,0.00001
+709,"fonseca, carlos roberto",,11,11,2,12,11,0.000009
+1025,"irvine, kathryn m.",,11,16,4,86,11,0.000006
+503,"davies, hugh f.",,11,16,2,50,11,0.000002
+691,"firth, ronald s. c.",,11,16,2,50,11,0.000002
+781,"ge, jianping",,11,13,2,27,11,0.000002
+787,"geyle, hayley m.",,11,16,2,50,11,0.000002
+1567,"murphy, brett p.",,11,16,2,50,11,0.000002
+2135,"smith, james l. d.",,11,13,2,27,11,0.000002
+2400,"wang, tianming",,11,13,2,27,11,0.000002
+2475,"woinarski, john c. z.",,11,16,2,50,11,0.000002
+91,"aung, zarni",,11,11,1,2,11,0
+203,"bjork, robin",,11,11,1,13,11,0
+380,"chelgren, nathan d.",,11,11,1,13,11,0
+399,"clements, gopalasamy reuben",,11,11,1,4,11,0
+498,"dauwalter, daniel c.",,11,11,1,13,11,0
+606,"dunham, jason b.",,11,11,1,13,11,0
+682,"fesenmyer, kurt a.",,11,11,1,13,11,0
+1028,"isaak, daniel j.",,11,11,1,13,11,0
+1233,"leasure, douglas r.",,11,11,2,15,11,0
+1309,"luce, charlie h.",,11,11,1,13,11,0
+1320,"lute, abby c.",,11,11,1,13,11,0
+1437,"mazzamuto, maria v.",,11,11,1,2,11,0
+1507,"moe, kyaw",,11,11,1,2,11,0
+1579,"naing, hla",,11,11,1,2,11,0
+1596,"neville, helen m.",,11,11,1,13,11,0
+1746,"peacock, mary m.",,11,11,1,13,11,0
+2481,"wong, wai-ming",,11,11,1,4,11,0
+919,"hebblewhite, mark",,10,10,2,109,10,0.007678
+2269,"thompson, frank r., iii",,10,10,4,38,10,0.004598
+2393,"walls, susan c.",,10,13,3,48,10,0.004111
+405,"coates, peter s.",,10,10,2,23,10,0.003083
+1642,"o'brien, timothy",,10,10,2,1,10,0.002685
+2396,"wang, fang",,10,10,2,20,10,0.002685
+1515,"monroe, adrian p.",,10,10,2,20,10,0.002482
+263,"brashares, j. s.",,10,14,4,156,10,0.001939
+2025,"sauer, john r.",,10,10,3,250,10,0.001938
+1987,"rush, scott a.",,10,10,2,8,10,0.001155
+517,"de pinho, fernando f.",,10,13,2,26,10,0.000304
+679,"ferreira, guilherme b.",,10,13,2,26,10,0.000304
+797,"gilbert, andrew t.",,10,13,2,404,10,0.000298
+1644,"o'connell, allan f.",,10,13,2,404,10,0.000298
+2233,"talancy, neil w.",,10,13,2,404,10,0.000298
+1880,"reichert, brian e.",,10,11,2,29,10,0.000143
+220,"blomberg, erik j.",,10,10,3,9,10,0.000034
+1541,"mortelliti, alessio",,10,11,4,51,10,0.000024
+964,"hochachka, wesley m.",,10,10,2,90,10,0.000011
+1008,"huntsman, brock m.",,10,10,2,9,10,0.000005
+271,"breininger, david r.",,10,17,3,14,10,0.000002
+2188,"stolen, eric d.",,10,17,3,14,10,0.000002
+15,"ahmad, bilal",,10,13,2,2,10,0.000001
+230,"bohnett, eve",,10,13,2,2,10,0.000001
+619,"edwards, david p.",,10,12,2,50,10,0.000001
+803,"gilroy, james j.",,10,12,2,50,10,0.000001
+967,"hoctor, thomas",,10,13,2,2,10,0.000001
+1003,"hulse, david",,10,13,2,2,10,0.000001
+69,"antonio de la torre, j.",,10,10,1,13,10,0
+163,"bellingham, peter j.",,10,10,1,26,10,0
+198,"bista, damber",,10,10,1,4,10,0
+227,"boerner, konstantin",,10,10,1,0,10,0
+287,"brook, barry w.",,10,10,1,2,10,0
+402,"clisby, n.",,10,10,1,2,10,0
+417,"coleman, morgan",,10,10,1,26,10,0
+531,"delle monache, daniele",,10,13,2,18,10,0
+587,"drenske, sinah",,10,10,1,0,10,0
+588,"drew, keven",,10,10,1,26,10,0
+605,"duncan, richard p.",,10,10,1,26,10,0
+640,"esser, helen j.",,10,10,1,13,10,0
+712,"fordham, damien a.",,10,10,1,2,10,0
+724,"fowler, anthony j.",,10,10,1,2,10,0
+790,"gibertini, chiara",,10,15,2,2,10,0
+800,"gillanders, bronwyn m.",,10,10,1,2,10,0
+836,"gormley, andrew m.",,10,10,1,26,10,0
+842,"grabow, marius",,10,10,1,0,10,0
+877,"hagen, robert",,10,10,1,0,10,0
+881,"hall, karina c.",,10,10,1,2,10,0
+1073,"jones, christopher j.",,10,10,1,26,10,0
+1079,"jordan, christopher a.",,10,10,1,13,10,0
+1095,"kandel, ram chandra",,10,10,1,4,10,0
+1102,"karl, brian j.",,10,10,1,26,10,0
+1137,"khanal, kapil",,10,10,1,4,10,0
+1145,"kiefer, sarah",,10,10,1,0,10,0
+1149,"kimmig, sophia",,10,10,1,0,10,0
+1212,"lama, sonam tashi",,10,10,1,4,10,0
+1327,"lyver, philip o'b.",,10,10,1,26,10,0
+1340,"macleod, catriona j.",,10,10,1,26,10,0
+1379,"mannan, sam",,10,10,1,2,10,0
+1423,"mathai, john",,10,10,1,2,10,0
+1466,"meijaard, erik",,10,10,1,2,10,0
+1468,"mellin, camille",,10,10,1,2,10,0
+1683,"ortega, josue",,10,10,1,13,10,0
+1701,"pairman, david",,10,10,1,26,10,0
+1797,"planillo, aimara",,10,10,1,0,10,0
+1834,"prowse, thomas a. a.",,10,10,1,2,10,0
+2018,"sapkota, netra sharma",,10,10,1,4,10,0
+2102,"shrestha, saroj",,10,10,1,4,10,0
+2171,"steer, michael a.",,10,10,1,2,10,0
+2183,"stillfried, milena",,10,10,1,0,10,0
+2191,"straka, tanja m.",,10,10,1,0,10,0
+2194,"street, garrett m.",,10,10,1,2,10,0
+2236,"tanner, jason e.",,10,10,1,2,10,0
+2259,"thapa, madhuri karki",,10,10,1,4,10,0
+2322,"valdes, samuel",,10,10,1,13,10,0
+2406,"ward, tim m.",,10,10,1,2,10,0
+2440,"whitehead, amy l.",,10,10,1,26,10,0
+985,"hooten, mevin b.",,9,9,3,61,9,0.006559
+934,"henschel, p.",,9,9,2,11,9,0.004657
+754,"gallo, travis",,9,9,2,9,9,0.004378
+121,"barichivich, william j.",,9,11,2,38,9,0.003661
+291,"brown, mary e.",,9,11,2,38,9,0.003661
+39,"altwegg, res",,9,9,5,73,9,0.003287
+586,"dreitz, victoria j.",,9,10,4,29,9,0.002626
+1652,"o'riain, mj.",,9,9,4,52,9,0.001737
+663,"farris, seth c.",,9,12,2,13,9,0.001288
+874,"hackett, caitlin e.",,9,12,2,13,9,0.001288
+2413,"webb, elisabeth b.",,9,9,2,4,9,0.001155
+1070,"johnson, matthew",,9,11,2,13,9,0.000883
+146,"bayly, nicholas j.",,9,9,2,3,9,0.00077
+827,"gomez, maria daniela",,9,10,2,2,9,0.000535
+269,"brehme, cheryl s.",,9,11,2,69,9,0.000362
+695,"fisher, robert n.",,9,11,2,69,9,0.000362
+559,"dickman, amy j.",,9,10,2,43,9,0.000353
+34,"allen, maximilian l.",,9,10,2,1,9,0.000299
+1097,"kanno, yoichiro",,9,10,2,100,9,0.000193
+1253,"letcher, benjamin h.",,9,10,2,100,9,0.000193
+1006,"hunter, l. t. b.",,9,12,3,61,9,0.00015
+1889,"rendall, anthony r.",,9,9,2,10,9,0.000033
+1617,"nielsen, clayton k.",,9,16,5,143,9,0.000023
+1324,"lyet, arnaud",,9,9,2,14,9,0.000016
+1170,"koch, joshua c.",,9,10,2,26,9,0.000014
+2474,"wipfli, mark s.",,9,10,2,26,9,0.000014
+181,"besnard, aurelien",,9,9,2,36,9,0.000006
+2045,"schmidt, benedikt r.",,9,11,4,171,9,0.000006
+807,"giovanini, jack",,9,15,3,43,9,0.000001
+1076,"jones, jay e.",,9,15,3,43,9,0.000001
+16,"ahmad, tariq",,9,9,1,4,9,0
+22,"akrim, faraz",,9,9,1,4,9,0
+33,"ali, mirza wajid",,9,9,1,4,9,0
+89,"astrom, jens",,9,9,1,1,9,0
+94,"awan, muhammad naeem",,9,9,1,4,9,0
+96,"aziz, rizwana",,9,9,1,4,9,0
+164,"belluardo, francesco",,9,9,1,2,9,0
+204,"blaalid, rakel",,9,9,1,1,9,0
+218,"blendinger, pedro g.",,9,9,1,16,9,0
+358,"castillo, jessica a.",,9,9,1,6,9,0
+365,"cecala, kristen k.",,9,9,1,15,9,0
+499,"davey, marie l.",,9,9,1,1,9,0
+552,"di nicola, matteo riccardo",,9,9,1,2,9,0
+632,"endrestol, anders",,9,9,1,1,9,0
+634,"epps, clinton w.",,9,9,1,6,9,0
+657,"faraci, federico",,9,9,1,2,9,0
+718,"fossoy, frode",,9,9,1,1,9,0
+737,"frisch, john r.",,9,9,1,15,9,0
+778,"gavier-pizarro, gregorio, i",,9,9,1,16,9,0
+844,"gragson, ted l.",,9,9,1,15,9,0
+922,"hegre, hanne",,9,9,1,1,9,0
+935,"hepinstall-cymerman, jeffrey",,9,9,1,15,9,0
+1012,"hussain, hafiz sajid",,9,9,1,4,9,0
+1034,"jackson, c. rhett",,9,9,1,15,9,0
+1039,"jacobsen, rannveig m.",,9,9,1,1,9,0
+1050,"jeffress, mackenzie r.",,9,9,1,6,9,0
+1135,"khan, barkatullah",,9,9,1,4,9,0
+1243,"leigh, david s.",,9,9,1,15,9,0
+1331,"macchi, leandro",,9,9,1,16,9,0
+1347,"maerz, john c.",,9,9,1,15,9,0
+1353,"magnuson, michael l.",,9,9,1,6,9,0
+1358,"mahmood, tariq",,9,9,1,4,9,0
+1363,"majaneva, markus a. m.",,9,9,1,1,9,0
+1421,"mastrangelo, matias",,9,9,1,16,9,0
+1510,"mohren, sean r.",,9,9,1,6,9,0
+1568,"murray, francisco",,9,9,1,16,9,0
+1589,"nazir, rabia",,9,9,1,4,9,0
+1625,"nordensten, nancy j.",,9,9,1,6,9,0
+1661,"often, anders",,9,9,1,1,9,0
+1791,"piquer-rodriguez, maria",,9,9,1,16,9,0
+1827,"pringle, catherine m.",,9,9,1,15,9,0
+2014,"sandercock, brett k.",,9,9,1,1,9,0
+2056,"schwalm, donelle",,9,9,1,6,9,0
+2094,"sherrill, kirk r.",,9,9,1,6,9,0
+2099,"shinderman, matthew",,9,9,1,6,9,0
+2407,"waseem, muhammad",,9,9,1,4,9,0
+50,"amundson, courtney",,8,9,3,90,8,0.006287
+661,"farr, matthew t.",,8,9,3,21,8,0.006127
+2323,"valente, jonathon j.",,8,8,2,24,8,0.003875
+1400,"martin, james a.",,8,8,2,49,8,0.002439
+694,"fisher, jason t.",,8,8,4,61,8,0.002307
+331,"campbell, tyler a.",,8,8,2,17,8,0.001921
+1667,"olden, julian d.",,8,8,2,35,8,0.001921
+2247,"tenan, s.",,8,11,3,33,8,0.001921
+1996,"saab, victoria a.",,8,8,2,21,8,0.001567
+872,"gutierrez, r. j.",,8,8,3,202,8,0.001539
+1511,"moll, remington j.",,8,13,3,36,8,0.001208
+1293,"lombardi, jason v.",,8,8,2,50,8,0.001155
+2017,"santos-reis, margarida",,8,11,3,63,8,0.001155
+1377,"manley, p. n.",,8,9,2,46,8,0.00096
+2437,"white, a. m.",,8,9,2,46,8,0.00096
+1754,"penjor, ugyen",,8,12,4,24,8,0.000771
+1654,"ober, holly k.",,8,8,2,16,8,0.000547
+431,"conroy, michael j.",,8,8,2,28,8,0.000485
+284,"brodie, jedediah f.",,8,9,3,134,8,0.000385
+1090,"kalies, elizabeth l.",,8,8,2,111,8,0.000385
+1972,"rotella, jay j.",,8,8,2,10,8,0.000324
+2054,"schuttler, stephanie g.",,8,12,2,38,8,0.000257
+409,"coda, jose a.",,8,13,3,11,8,0.00024
+2080,"serafini, vanesa",,8,13,3,11,8,0.00024
+84,"asad, sami",,8,10,2,6,8,0.000128
+1944,"roedel, mark-oliver",,8,10,2,6,8,0.000128
+2112,"sikui, julsun",,8,10,2,6,8,0.000128
+804,"gimenez, olivier",,8,8,2,29,8,0.000014
+981,"homyack, jessica a.",,8,12,4,39,8,0.000014
+2047,"schmutz, joel a.",,8,8,2,9,8,0.000013
+1270,"lindberg, mark s.",,8,10,3,34,8,0.000008
+696,"fisher, scott",,8,10,2,26,8,0.000001
+1681,"ormsbee, patricia c.",,8,10,2,69,8,0.000001
+2273,"thornton, daniel h.",,8,10,2,26,8,0.000001
+2,"abidin, tommy rowel",,8,8,1,1,8,0
+4,"abu bakar, mohd soffian",,8,8,1,1,8,0
+12,"addison, lindsay",,8,8,1,10,8,0
+28,"alejandro viddi, francisco",,8,8,1,13,8,0
+53,"andersen, alan n.",,8,8,1,43,8,0
+61,"andres, brad a.",,8,8,1,13,8,0
+62,"andretti, christian b.",,8,8,1,11,8,0
+65,"annand, elizabeth m.",,8,8,1,256,8,0
+87,"ashe, erin",,8,8,1,13,8,0
+93,"authier, matthieu",,8,8,1,0,8,0
+151,"bedrinana-romano, luis",,8,8,1,13,8,0
+206,"blackman, rosetta c.",,8,8,1,27,8,0
+224,"boehm, s. m.",,8,8,1,5,8,0
+225,"boehning-gaese, k.",,8,8,1,5,8,0
+228,"boettcher, ruth",,8,8,1,10,8,0
+233,"bonacic, cristian",,8,8,1,39,8,0
+249,"bouchard, colin",,8,8,1,0,8,0
+279,"briggs-gonzalez, venetia",,8,8,1,12,8,0
+283,"brodie, bekka s.",,8,8,1,7,8,0
+290,"brown, larry r.",,8,8,1,0,8,0
+307,"burkhalter, c.",,8,8,1,3,8,0
+340,"cardenas, johann s.",,8,8,1,50,8,0
+357,"castaneda, pamela gonzalez del pliego",,8,8,1,50,8,0
+367,"cerqueira, marconi c.",,8,8,1,11,8,0
+370,"chambert, thierry",,8,8,1,20,8,0
+371,"champagnon, jocelyn",,8,8,1,0,8,0
+393,"ciocanea, cristiana",,8,8,1,7,8,0
+414,"cohez, damien",,8,8,1,0,8,0
+415,"cohn-haft, mario",,8,8,1,11,8,0
+426,"comley, jessica",,8,8,1,6,8,0
+428,"compton, justin a.",,8,8,1,1,8,0
+434,"conway, courtney j.",,8,10,3,32,8,0
+448,"copeland, h. e.",,8,8,1,3,8,0
+456,"costa, thiago v. v.",,8,8,1,11,8,0
+462,"crabtree, r. l.",,8,8,1,3,8,0
+464,"crawford, catherine l.",,8,8,1,20,8,0
+469,"crone, erin",,8,8,1,1,8,0
+476,"cruz, jennyffer",,8,8,1,1,8,0
+486,"cwynar, blake",,8,8,1,1,8,0
+536,"denoel, mathieu",,8,8,1,0,8,0
+565,"dloniak, stephanie m.",,8,8,1,1,8,0
+581,"drake, david",,8,8,1,1,8,0
+609,"duret, clement",,8,8,1,0,8,0
+613,"dyer, heather",,8,8,1,0,8,0
+625,"elliott-smith, elise",,8,8,1,13,8,0
+645,"evenson, joseph r.",,8,8,1,13,8,0
+670,"fedy, b. c.",,8,8,1,3,8,0
+725,"fowler, nicholas l.",,8,8,1,4,8,0
+740,"fujisaki, ikuko",,8,8,1,7,8,0
+758,"gann, shanon l.",,8,14,2,11,8,0
+760,"garces-vargas, jose",,8,8,1,13,8,0
+768,"gardner, penny",,8,8,1,1,8,0
+779,"gavrilidis, athanasios a.",,8,8,1,7,8,0
+796,"gilabert, horacio",,8,8,1,39,8,0
+801,"gillespie, graeme r.",,8,8,1,43,8,0
+805,"gimona, alessandro",,8,8,1,39,8,0
+815,"gockel, s.",,8,8,1,5,8,0
+834,"goossens, benoit",,8,8,1,1,8,0
+857,"griffiths, nathan p.",,8,8,1,27,8,0
+865,"guillemain, matthieu",,8,8,1,0,8,0
+866,"guillera-arroita, gurutzeta",,8,8,1,7,8,0
+882,"hall, laurie a.",,8,8,1,0,8,0
+889,"hand, christine e.",,8,8,1,0,8,0
+891,"handley, lori lawson",,8,8,1,27,8,0
+892,"hanfling, bernd",,8,8,1,27,8,0
+899,"harper, kirsten j.",,8,8,1,27,8,0
+900,"harper, lynsey r.",,8,8,1,27,8,0
+928,"hemp, a.",,8,8,1,5,8,0
+938,"hernandez, felipe",,8,8,1,39,8,0
+944,"herrick, bradley m.",,8,8,1,1,8,0
+946,"hester, alison",,8,8,1,39,8,0
+959,"hill, russell a.",,8,8,1,6,8,0
+976,"holloran, a. g.",,8,8,1,3,8,0
+977,"holloran, m. j.",,8,8,1,3,8,0
+978,"holloway-adkins, karen g.",,8,14,2,11,8,0
+983,"honeycutt, r. ken",,8,8,1,20,8,0
+987,"hostetter, nathan j.",,8,8,1,10,8,0
+997,"hubbard, tru",,8,8,1,1,8,0
+999,"hucke-gaete, rodrigo",,8,8,1,13,8,0
+1011,"husband, thomas p.",,8,8,1,256,8,0
+1016,"iannarilli, fabiola",,8,8,1,1,8,0
+1048,"jay, s. c.",,8,8,1,3,8,0
+1049,"jeffery, brian m.",,8,8,1,7,8,0
+1072,"jones, chris",,8,8,1,0,8,0
+1077,"jones, thomas r.",,8,8,1,20,8,0
+1092,"kalko, e. k. v.",,8,8,1,5,8,0
+1109,"kautz, todd m.",,8,8,1,4,8,0
+1122,"kelly, elizabeth g.",,8,8,1,13,8,0
+1147,"kilpatrick, a. marm",,8,8,1,0,8,0
+1182,"kovach, tony j.",,8,8,1,0,8,0
+1208,"lafferty, diana j. r.",,8,8,1,1,8,0
+1211,"laker, jerry",,8,8,1,39,8,0
+1226,"larose, summer h.",,8,8,1,1,8,0
+1240,"legare, mike l.",,8,8,1,6,8,0
+1241,"legare, stephanie a.",,8,14,2,11,8,0
+1255,"lewis, catherine",,8,8,1,1,8,0
+1260,"li, jianlong",,8,8,1,27,8,0
+1267,"lim, hong-ye",,8,8,1,1,8,0
+1298,"loprete, l.",,8,8,1,0,8,0
+1300,"lorrain-soligon, lea",,8,8,1,0,8,0
+1314,"luke, kirsten",,8,8,1,0,8,0
+1325,"lynch, heather j.",,8,8,1,83,8,0
+1326,"lyons, james e.",,8,8,1,13,8,0
+1378,"mann, gareth k. h.",,8,8,1,6,8,0
+1380,"manolache, steluta",,8,8,1,7,8,0
+1419,"massez, gregoire",,8,8,1,0,8,0
+1433,"may, jason",,8,8,1,0,8,0
+1465,"medina uribe, claudia a.",,8,8,1,50,8,0
+1490,"mills, brett",,8,8,1,0,8,0
+1495,"milner, ruth l.",,8,8,1,13,8,0
+1527,"morales, juan",,8,8,1,13,8,0
+1574,"mwaura, anastacia",,8,8,1,1,8,0
+1575,"nader, carlos e.",,8,8,1,11,8,0
+1577,"nagy, chris",,8,8,1,1,8,0
+1604,"ngatia, dedan k.",,8,8,1,1,8,0
+1605,"ngene, shadrack",,8,8,1,1,8,0
+1620,"nimmo, dale g.",,8,8,1,7,8,0
+1640,"nysewander, david r.",,8,8,1,13,8,0
+1641,"o'brien, daniel j.",,8,8,1,4,8,0
+1647,"o'hara, r. b.",,8,8,1,5,8,0
+1659,"oddy, donna m.",,8,14,2,11,8,0
+1662,"ogurcak, danielle",,8,8,1,7,8,0
+1693,"pablo torres-florez, juan",,8,8,1,13,8,0
+1700,"padilla, pablo",,8,8,1,0,8,0
+1707,"palenscar, kai",,8,8,1,0,8,0
+1713,"parker, daniel m.",,8,8,1,6,8,0
+1720,"parsons, bill",,8,8,1,4,8,0
+1738,"pavis, justine",,8,8,1,0,8,0
+1772,"peterson, sean m.",,8,8,1,0,8,0
+1773,"petitpas, robert",,8,8,1,39,8,0
+1779,"pfeiffer, s.",,8,8,1,5,8,0
+1788,"pille, fabien",,8,8,1,0,8,0
+1795,"pitman, ross t.",,8,8,1,6,8,0
+1799,"plumier, ethan",,8,8,1,1,8,0
+1803,"pollock, kenneth h.",,8,8,1,10,8,0
+1821,"prescott, graham w.",,8,8,1,50,8,0
+1823,"preston, daniel l.",,8,8,1,1,8,0
+1874,"read, daniel s.",,8,8,1,27,8,0
+1890,"renner, s. c.",,8,8,1,5,8,0
+1897,"rice, kenneth g.",,8,8,1,7,8,0
+1903,"richmond, orien m.",,8,8,1,0,8,0
+1913,"risk, benjamin b.",,8,8,1,0,8,0
+1934,"rochford, michael",,8,8,1,7,8,0
+1950,"rojas-murcia, luis e.",,8,8,1,50,8,0
+1983,"rozylowicz, laurentiu",,8,8,1,7,8,0
+1985,"ruiz, jorge",,8,8,1,13,8,0
+1988,"russell, kerwin",,8,8,1,0,8,0
+1992,"rutledge, b. a.",,8,8,1,3,8,0
+2012,"sanchez, andres",,8,8,1,50,8,0
+2024,"sauer, erin l.",,8,8,1,1,8,0
+2031,"sayer, carl d.",,8,8,1,27,8,0
+2033,"sberze, monica",,8,8,1,11,8,0
+2038,"schaub, ron",,8,8,1,6,8,0
+2057,"schwarzer, amy",,8,8,1,0,8,0
+2058,"schweitzer, sara h.",,8,8,1,10,8,0
+2066,"see, kevin",,8,8,1,83,8,0
+2079,"serafim, rodica",,8,8,1,7,8,0
+2118,"simons, theodore r.",,8,8,1,10,8,0
+2131,"smith, brian j.",,8,8,1,12,8,0
+2133,"smith, fletcher",,8,8,1,0,8,0
+2148,"sorensen, jeff a.",,8,8,1,20,8,0
+2160,"squires, michiko a.",,8,8,1,12,8,0
+2223,"swilling, william r.",,8,8,1,10,8,0
+2240,"tecklin, jerry",,8,8,1,0,8,0
+2248,"tendron, pauline",,8,8,1,0,8,0
+2266,"thomas, susan m.",,8,8,1,13,8,0
+2310,"tyrrell, peter d.",,8,8,1,1,8,0
+2325,"vallecillo, david",,8,8,1,0,8,0
+2336,"van schmidt, nathan",,8,8,1,0,8,0
+2342,"vanau, gabriel",,8,8,1,7,8,0
+2344,"vandewalle, philippe",,8,8,1,0,8,0
+2347,"vargas, claudeir f.",,8,8,1,11,8,0
+2365,"vialet, emmanuel",,8,8,1,0,8,0
+2409,"watson, craig",,8,8,1,0,8,0
+2410,"watts, bryan d.",,8,8,1,0,8,0
+2421,"weiss, stephanie k.",,8,14,2,11,8,0
+2422,"weldon, aimee",,8,8,1,0,8,0
+2424,"wells, k.",,8,8,1,5,8,0
+2444,"whittington-jones, gareth",,8,8,1,6,8,0
+2450,"wilke, alexandra l.",,8,8,1,10,8,0
+2454,"williams, kathryn s.",,8,8,1,6,8,0
+2457,"williams, rob",,8,8,1,13,8,0
+2458,"williams, samual t.",,8,8,1,6,8,0
+2494,"wulff, marissa",,8,8,1,0,8,0
+2504,"yamane, yumi",,8,8,1,1,8,0
+1807,"porter, william f.",,7,7,3,5,7,0.004588
+183,"betts, matthew g.",,7,7,4,258,7,0.004327
+681,"ferreras, pablo",,7,8,2,38,7,0.003793
+1519,"monterroso, pedro",,7,8,2,38,7,0.003793
+1545,"mosher, brittany a.",,7,7,2,22,7,0.00282
+1418,"masozera, m. k.",,7,9,2,28,7,0.00194
+1522,"moore, j. f.",,7,9,2,28,7,0.00194
+1556,"mulindahabi, f.",,7,9,2,28,7,0.00194
+2222,"swihart, robert k.",,7,8,4,140,7,0.001806
+2072,"semlitsch, r. d.",,7,8,3,109,7,0.00173
+1031,"ivan, jacob s.",,7,9,3,18,7,0.000898
+261,"branch, lyn c.",,7,7,2,43,7,0.00077
+2026,"saunders, sarah p.",,7,7,2,34,7,0.00077
+1082,"joshi, atul a.",,7,10,2,34,7,0.000394
+1344,"madhusudan, m. d.",,7,13,3,74,7,0.000394
+1787,"pillay, rajeev",,7,13,3,74,7,0.000394
+1514,"monadjem, a.",,7,8,2,19,7,0.000387
+1733,"paula goijman, andrea",,7,7,2,35,7,0.000285
+1321,"luther, david a.",,7,8,2,12,7,0.00017
+1254,"leu, matthias",,7,9,2,10,7,0.000062
+2040,"scherer, rick d.",,7,9,2,10,7,0.000062
+1251,"lesmeister, damon b.",,7,9,3,134,7,0.000034
+2501,"yackulic, charles b.",,7,8,2,34,7,0.000023
+2540,"zuckerberg, benjamin",,7,7,2,88,7,0.000006
+1526,"moral, rafael a.",,7,7,2,3,7,0.000004
+1769,"peterman, william e.",,7,8,3,40,7,0.000004
+102,"bajaru, sameer b.",,7,7,2,7,7,0.000003
+677,"ferreguetti, atilla colombo",,7,10,3,34,7,0.000003
+2027,"savini, tommaso",,7,7,2,10,7,0.000003
+971,"hofmeester, tim r.",,7,7,2,18,7,0.000002
+195,"bishop, andrew a.",,7,8,2,11,7,0.000001
+710,"fontaine, joseph j.",,7,8,2,11,7,0.000001
+24,"alaniz, alberto j.",,7,7,1,2,7,0
+44,"ambu, laurentius",,7,7,1,96,7,0
+45,"amburgey, staci m.",,7,7,1,4,7,0
+56,"anderson, jesse",,7,7,1,96,7,0
+64,"andrianjakarivelo, vonjy",,7,11,2,27,7,0
+76,"ares-pereira, guilherme",,7,7,1,0,7,0
+95,"ayala, guido",,7,7,1,1,7,0
+98,"bai, linzhuang",,7,7,1,0,7,0
+104,"baker-whatton, megan c.",,7,7,1,37,7,0
+143,"baumann, matthias",,7,12,2,29,7,0
+168,"bennett, ruth e.",,7,7,1,2,7,0
+213,"blangiardo, marta",,7,7,1,7,7,0
+237,"bonneau, mathieu",,7,7,1,18,7,0
+244,"borkhataria, rena r.",,7,7,1,18,7,0
+295,"brussee, brianne e.",,7,7,1,11,7,0
+317,"cabello, javier",,7,7,1,2,7,0
+328,"camino, micaela",,7,12,2,29,7,0
+330,"campbell, ruairidh d.",,7,7,1,12,7,0
+336,"caputo, beniamino",,7,7,1,7,7,0
+360,"castro, guilherme",,7,7,1,0,7,0
+375,"chandra, kailash",,7,7,1,1,7,0
+528,"delaney, katy s.",,7,7,1,4,7,0
+529,"delehanty, david j.",,7,7,1,11,7,0
+530,"della torre, alessandra",,7,7,1,7,7,0
+554,"diao, yixin",,7,7,1,0,7,0
+615,"eames, jonathan c.",,7,7,1,1,7,0
+635,"er, kenneth b. h.",,7,7,1,1,7,0
+671,"feng, jiawei",,7,7,1,7,7,0
+680,"ferreira, marco a. r.",,7,7,1,103,7,0
+688,"filipponi, federico",,7,7,1,7,7,0
+697,"fitkin, scott",,7,7,1,8,7,0
+719,"foster, lee j.",,7,7,1,11,7,0
+763,"garcia, emilio j.",,7,7,1,10,7,0
+766,"garcia-dominguez, francisco",,7,7,1,10,7,0
+806,"giordano, anthony j.",,7,8,2,133,7,0
+825,"gomez, camila",,7,7,1,2,7,0
+829,"gomez-valencia, bibiana",,7,12,2,29,7,0
+848,"gray, thomas n. e.",,7,7,1,1,7,0
+861,"gu, bojian",,7,7,1,0,7,0
+911,"hathaway, stacie a.",,7,7,1,4,7,0
+948,"hetherington, david a.",,7,7,1,12,7,0
+952,"hidalgo-hermoso, ezequiel",,7,7,1,2,7,0
+990,"howe, kristy b.",,7,7,1,11,7,0
+1035,"jackson, craig r.",,7,7,1,8,7,0
+1037,"jackson, pat j.",,7,7,1,11,7,0
+1071,"johnson, paul j.",,7,7,1,12,7,0
+1083,"joshi, bheem dutt",,7,7,1,1,7,0
+1141,"khoo, max d. y.",,7,7,1,1,7,0
+1148,"kilshaw, kerry",,7,7,1,12,7,0
+1154,"king, travis w.",,7,7,1,8,7,0
+1161,"kitchener, andrew c.",,7,7,1,12,7,0
+1236,"lee, benjamin p. y-h",,7,7,1,1,7,0
+1259,"li, hailong",,7,7,1,7,7,0
+1266,"lim, bryan t. m.",,7,7,1,1,7,0
+1268,"lima, catia",,7,7,1,0,7,0
+1272,"lindeman, michael",,7,7,1,7,7,0
+1285,"llaneza, luis",,7,7,1,10,7,0
+1292,"loman, zachary g.",,7,7,1,8,7,0
+1296,"loo, adrian h. b.",,7,7,1,1,7,0
+1304,"loveridge, robin",,7,7,1,1,7,0
+1306,"loy, rebecca h. y.",,7,7,1,1,7,0
+1308,"lua, h. k.",,7,7,1,1,7,0
+1345,"madsen, emily k.",,7,8,2,12,7,0
+1350,"magalhaes, ana",,7,7,1,0,7,0
+1361,"mahood, simon p.",,7,7,1,1,7,0
+1376,"manica, mattia",,7,7,1,7,7,0
+1388,"mariano gonzalez, luis",,7,7,1,10,7,0
+1393,"marquez, robert",,7,7,1,1,7,0
+1416,"masenga, emmanuel h.",,7,7,1,8,7,0
+1426,"matthews, john",,7,7,1,7,7,0
+1434,"may, roel f.",,7,7,1,8,7,0
+1462,"mcphee, steven r.",,7,7,1,7,7,0
+1472,"meneses, luis o.",,7,7,1,2,7,0
+1486,"miller, darren a.",,7,7,1,8,7,0
+1505,"mjingo, ernest e.",,7,7,1,8,7,0
+1509,"mohd-azlan, jayasilan",,7,7,1,96,7,0
+1531,"moreira-arce, dario",,7,7,1,2,7,0
+1544,"moser, ann m.",,7,7,1,11,7,0
+1555,"mukherjee, tanoy",,7,7,1,1,7,0
+1560,"munoz-igualada, jaime",,7,7,1,10,7,0
+1566,"murphy, asia j.",,7,11,2,27,7,0
+1590,"negroes, nuno",,7,7,1,1,7,0
+1597,"newbold, tim",,7,7,1,20,7,0
+1623,"norambuena, katherine",,7,7,1,2,7,0
+1704,"palacios, vicente",,7,7,1,10,7,0
+1762,"perez-hernandez, christian g.",,7,7,1,2,7,0
+1766,"perry, roger w.",,7,7,1,17,7,0
+1790,"pinheiro, marcell soares",,7,7,1,20,7,0
+1845,"rabelo oliveira, marcelo juliano",,7,7,1,20,7,0
+1862,"ransom, jason i.",,7,7,1,8,7,0
+1886,"reinaga, ariel",,7,7,1,1,7,0
+1888,"ren, you",,7,7,1,17,7,0
+1898,"rice, robert a.",,7,7,1,2,7,0
+1908,"riffell, samuel k.",,7,7,1,8,7,0
+1910,"riley, seth p. d.",,7,7,1,4,7,0
+1933,"rochester, carlton j.",,7,7,1,4,7,0
+1948,"rohrer, john",,7,7,1,8,7,0
+1959,"rosa, roberto",,7,7,1,7,7,0
+1960,"rosalino, luis miguel",,7,7,1,0,7,0
+1967,"roskaft, eivin",,7,7,1,8,7,0
+1993,"ryan, gerard edward",,7,7,1,1,7,0
+1994,"ryder, t. brandt",,7,7,1,2,7,0
+2060,"screti, alessia",,7,7,1,7,7,0
+2061,"scroggie, michael p.",,7,7,1,7,7,0
+2087,"sharief, amira",,7,7,1,1,7,0
+2120,"singh, hemant",,7,7,1,1,7,0
+2121,"singh, inder",,7,7,1,1,7,0
+2144,"soh, malcolm c. k.",,7,7,1,1,7,0
+2146,"solimini, angelo",,7,7,1,7,7,0
+2166,"stamation, kasey a.",,7,7,1,7,7,0
+2195,"strindberg, samantha",,7,7,1,1,7,0
+2197,"stuart, ivor g.",,7,7,1,7,7,0
+2206,"sum, phearun",,7,7,1,1,7,0
+2209,"sun, yifei",,7,7,1,7,7,0
+2243,"teixeira, daniela",,7,7,1,0,7,0
+2255,"thakur, mukesh",,7,7,1,1,7,0
+2262,"thill, ronald e.",,7,7,1,17,7,0
+2277,"tian, siyuan",,7,7,1,0,7,0
+2290,"torres, rita tinoco",,7,7,1,0,7,0
+2313,"udell, brad j.",,7,7,1,18,7,0
+2360,"vergara, pablo m.",,7,7,1,2,7,0
+2366,"vicente lopez-bao, jose",,7,7,1,10,7,0
+2370,"vilella, francisco j.",,7,7,1,8,7,0
+2374,"viscarra, maria",,7,7,1,1,7,0
+2383,"vynne, carly",,7,7,1,8,7,0
+2389,"wallace, robert",,7,7,1,1,7,0
+2427,"weng, yue",,7,7,1,0,7,0
+2433,"wheat, bradley r.",,7,7,1,8,7,0
+2438,"white, don, jr.",,7,7,1,17,7,0
+2446,"wigley, t. bently",,7,7,1,17,7,0
+2497,"xiao, yuqi",,7,7,1,7,7,0
+2525,"zhang, dandan",,7,7,1,7,7,0
+2527,"zhang, zhuojin",,7,7,1,0,7,0
+2528,"zhao, qianqian",,7,7,1,0,7,0
+349,"carroll, john p.",,6,6,2,32,6,0.005282
+2089,"shea, c. p.",,6,8,3,21,6,0.001538
+1750,"pejchar, liba",,6,6,2,41,6,0.001155
+1655,"oberosler, v.",,6,10,3,24,6,0.000316
+81,"arroyo, beatriz",,6,8,2,6,6,0.000256
+318,"cabodevilla, xabier",,6,8,2,6,6,0.000256
+2489,"wright, alexander d.",,6,8,2,6,6,0.000256
+2302,"truex, richard l.",,6,10,3,25,6,0.000129
+1491,"mills, david r.",,6,8,2,41,6,0.000124
+2128,"slotow, rob",,6,8,2,41,6,0.000124
+432,"contreras, facundo",,6,9,2,2,6,0.000097
+1246,"leon-ortega, mario",,6,8,2,23,6,0.000017
+350,"carter, neil",,6,6,2,19,6,0.000008
+1273,"linden, daniel w.",,6,8,3,57,6,0.000007
+109,"baldwin, robert f.",,6,10,4,28,6,0.000005
+578,"downs, c. t.",,6,7,3,53,6,0.000003
+1929,"robinson, scott k.",,6,6,2,28,6,0.000003
+300,"buehler, david a.",,6,6,2,34,6,0.000002
+746,"fyumagwa, robert",,6,10,2,21,6,0.000002
+873,"guzy, jacquelyn c.",,6,8,2,13,6,0.000002
+883,"halloran, kelly m.",,6,8,2,13,6,0.000002
+1573,"mwampeta, stanslaus b.",,6,10,2,21,6,0.000002
+2462,"willson, john d.",,6,8,2,13,6,0.000002
+175,"bergamini, ariel",,6,7,2,4,6,0.000001
+445,"cooper, robert j.",,6,7,2,106,6,0.000001
+454,"costa, andrea",,6,10,4,26,6,0.000001
+1529,"mordecai, rua s.",,6,7,2,106,6,0.000001
+2006,"salvidio, sebastiano",,6,10,4,26,6,0.000001
+2451,"wilkerson, robert l.",,6,7,2,60,6,0.000001
+8,"adams, amy a. yackel",,6,6,1,2,6,0
+10,"adams, michael j.",,6,10,2,14,6,0
+31,"alexsander, j. s.",,6,6,1,4,6,0
+35,"allender, matthew c.",,6,6,1,27,6,0
+59,"andren, henrik",,6,6,1,6,6,0
+97,"bagnall, keith e.",,6,6,1,1,6,0
+108,"baldwin, jim",,6,6,1,13,6,0
+125,"barnhart, patrick d.",,6,6,1,2,6,0
+134,"bartoszek, ian a.",,6,6,1,11,6,0
+137,"bashyal, ashish",,6,6,1,0,6,0
+173,"berg, ake",,6,6,1,15,6,0
+179,"berthier, karine",,6,6,1,35,6,0
+187,"bhatnagar, yash veer",,6,6,1,3,6,0
+190,"bhattarai, santosh",,6,6,1,0,6,0
+208,"blakey, rachel v.",,6,6,1,4,6,0
+223,"boase, james c.",,6,6,1,0,6,0
+240,"bonsen, gavin t.",,6,6,1,0,6,0
+245,"boron, valeria",,6,6,1,26,6,0
+258,"bradke, danielle r.",,6,6,1,27,6,0
+267,"breckheimer, ian k.",,6,6,1,1,6,0
+275,"brereton, t. m.",,6,6,1,29,6,0
+278,"briggs, andrew s.",,6,6,1,0,6,0
+280,"brinck, kevin w.",,6,6,1,4,6,0
+301,"buendia, cristina",,6,6,1,0,6,0
+303,"bullock, james m.",,6,6,1,265,6,0
+312,"busso, juan m.",,6,6,1,19,6,0
+319,"cabrera, j.",,6,6,1,12,6,0
+347,"carrillo-rubio, eduardo",,6,6,1,21,6,0
+366,"cepek, jonathon d.",,6,11,2,36,6,0
+384,"chenier, chris",,6,6,1,4,6,0
+387,"chestnut, tara",,6,6,1,1,6,0
+388,"chetkiewicz, cheryl-lesley b.",,6,6,1,4,6,0
+390,"chiotti, justin a.",,6,6,1,0,6,0
+437,"cooch, evan g.",,6,6,1,21,6,0
+441,"cooke, s. j.",,6,6,1,8,6,0
+449,"corcoran, derek",,6,6,1,4,6,0
+458,"coulson, tim",,6,6,1,40,6,0
+463,"crampton, lisa h.",,6,6,1,4,6,0
+466,"crego, ramiro d.",,6,6,1,13,6,0
+468,"cromsigt, joris p. g. m.",,6,6,1,6,6,0
+473,"crowe, andrew",,6,6,1,265,6,0
+479,"cunningham, ross",,6,6,1,17,6,0
+484,"cusack, jeremy j.",,6,6,1,40,6,0
+497,"dattilo, wesley",,6,6,1,0,6,0
+508,"dawson, f. neil",,6,6,1,4,6,0
+509,"dawson, jeff",,6,6,1,0,6,0
+521,"debruyne, robin l.",,6,6,1,0,6,0
+524,"decker, sam",,6,6,1,0,6,0
+526,"deere, nicolas j.",,6,6,1,26,6,0
+534,"dennis, e. b.",,6,6,1,29,6,0
+535,"dennis, patricia m.",,6,11,2,36,6,0
+543,"deveson, edward",,6,6,1,35,6,0
+549,"dhanjal-adams, kiran l.",,6,6,1,5,6,0
+551,"di blanco, yamil",,6,6,1,10,6,0
+562,"diegmann, julia s.",,6,6,1,4,6,0
+567,"dobkin, david s.",,6,6,1,5,6,0
+568,"dobrowski, s. z.",,6,6,1,34,6,0
+570,"doka, s. e.",,6,6,1,8,6,0
+594,"drouin, richard",,6,6,1,0,6,0
+597,"duarte, adam",,6,10,2,14,6,0
+620,"eichelberger, bradley a.",,6,6,1,2,6,0
+631,"emmerton, craig a.",,6,6,1,0,6,0
+659,"farias-gonzalez, veronica",,6,6,1,0,6,0
+660,"farnsworth, matthew l.",,6,6,1,5,6,0
+667,"faust, lisa j.",,6,6,1,27,6,0
+672,"feng, limin",,6,6,1,20,6,0
+673,"feng, rongna",,6,6,1,20,6,0
+704,"flockhart, d. t. tyler",,6,6,1,0,6,0
+722,"foster, s.",,6,6,1,29,6,0
+726,"fox, r.",,6,6,1,29,6,0
+741,"fuller, richard a.",,6,6,1,5,6,0
+755,"galvan, stephanie k.",,6,6,1,13,6,0
+773,"garthwaite, david g.",,6,6,1,265,6,0
+774,"gatorano, g.",,6,6,1,24,6,0
+789,"ghoshal, abhishek",,6,6,1,3,6,0
+853,"green, stephanie j.",,6,6,1,0,6,0
+903,"harrison, philip j.",,6,6,1,1,6,0
+917,"haynes, trevor b.",,6,6,1,26,6,0
+921,"hefner, jeromi m.",,6,6,1,11,6,0
+924,"heindl, barbara a. p.",,6,6,1,4,6,0
+942,"herrera, daniel j.",,6,6,1,0,6,0
+979,"holmes, christopher",,6,6,1,15,6,0
+1001,"hudson, michael a.",,6,6,1,0,6,0
+1019,"ikin, karen",,6,6,1,17,6,0
+1066,"johnsingh, a. j. t.",,6,9,2,42,6,0
+1088,"kadariya, rabin",,6,6,1,1,6,0
+1094,"kalyahe, monty",,6,6,1,40,6,0
+1124,"kendall, bruce e.",,6,6,1,5,6,0
+1131,"kesler, dylan c.",,6,6,1,4,6,0
+1139,"khanyari, munib",,6,6,1,3,6,0
+1140,"khara, abhirup",,6,6,1,3,6,0
+1150,"kindberg, jonas",,6,6,1,6,6,0
+1151,"kindvall, oskar",,6,6,1,1,6,0
+1155,"king, wendy m.",,6,6,1,1,6,0
+1158,"kirk, thomas a.",,6,6,1,13,6,0
+1165,"knape, jonas",,6,6,1,15,6,0
+1180,"kotowska, dorota",,6,6,1,15,6,0
+1187,"krepschi, victor g.",,6,6,1,22,6,0
+1193,"krupinski, dominik",,6,6,1,15,6,0
+1217,"lamichhane, saneer",,6,6,1,0,6,0
+1223,"lapointe, n. w. r.",,6,6,1,8,6,0
+1229,"laske, sarah m.",,6,6,1,26,6,0
+1230,"lassoie, james p.",,6,6,1,21,6,0
+1244,"leimgruber, peter",,6,6,1,13,6,0
+1248,"lepard, clara c.",,6,6,1,17,6,0
+1264,"li, zhilin",,6,6,1,20,6,0
+1274,"lindenmayer, david b.",,6,7,2,39,6,0
+1275,"link, andres",,6,6,1,26,6,0
+1277,"linnell, john d. c.",,6,6,1,6,6,0
+1279,"liske-clark, jill",,6,6,1,2,6,0
+1283,"lkhagvajav, p.",,6,6,1,4,6,0
+1299,"lorch, patrick d.",,6,11,2,36,6,0
+1315,"lundgren, erick j.",,6,6,1,0,6,0
+1316,"lundstrom, anders",,6,6,1,1,6,0
+1354,"magoun, audrey j.",,6,6,1,4,6,0
+1362,"mair, louise",,6,6,1,1,6,0
+1372,"mandujano, salvador",,6,6,1,0,6,0
+1374,"mangan, anna o.",,6,6,1,1,6,0
+1414,"martins, dino j.",,6,6,1,13,6,0
+1449,"mccreary, brome",,6,10,2,14,6,0
+1470,"mena, j. l.",,6,6,1,12,6,0
+1476,"mettler, aaron j.",,6,6,1,0,6,0
+1478,"michael, damian",,6,6,1,17,6,0
+1483,"midwood, j. d.",,6,6,1,8,6,0
+1497,"milton, david a.",,6,6,1,5,6,0
+1523,"moore, jennifer a.",,6,6,1,27,6,0
+1524,"moore, sophie m.",,6,6,1,0,6,0
+1533,"morgan, b. j. t.",,6,6,1,29,6,0
+1536,"moriarty, katie m.",,6,6,1,13,6,0
+1538,"morreale, stephen j.",,6,6,1,21,6,0
+1548,"mou, pu",,6,6,1,20,6,0
+1557,"mullin, katherine e.",,6,6,1,0,6,0
+1570,"murray, nicholas j.",,6,6,1,5,6,0
+1576,"nafus, melia g.",,6,6,1,2,6,0
+1584,"nasr, mina",,6,6,1,0,6,0
+1621,"niyigaba, p.",,6,6,1,24,6,0
+1622,"noon, barry r.",,6,6,1,5,6,0
+1624,"norden, jenni",,6,6,1,1,6,0
+1651,"o'neill, adam j.",,6,6,1,0,6,0
+1656,"obloza, przemyslaw",,6,6,1,15,6,0
+1658,"odden, john",,6,6,1,6,6,0
+1660,"odonjavkhlan, c.",,6,6,1,4,6,0
+1663,"ogutu, joseph o.",,6,6,1,13,6,0
+1665,"ojwang, gordon o.",,6,6,1,13,6,0
+1670,"oliveira, marcelo j. r.",,6,6,1,6,6,0
+1694,"pacheco-esquivel, j.",,6,6,1,12,6,0
+1711,"paolino, roberta m.",,6,6,1,22,6,0
+1721,"part, tomas",,6,6,1,15,6,0
+1722,"pasqualotto, nielson",,6,6,1,22,6,0
+1723,"pastor, p.",,6,6,1,12,6,0
+1728,"patricio andrade-ponce, gabriel",,6,6,1,0,6,0
+1732,"paudel, rajan prasad",,6,6,1,1,6,0
+1740,"pawar, udayan rao",,6,6,1,3,6,0
+1741,"paxton, eben h.",,6,6,1,4,6,0
+1742,"payan, esteban",,6,6,1,26,6,0
+1747,"pearl, christopher a.",,6,10,2,14,6,0
+1783,"pias, kyle e.",,6,6,1,4,6,0
+1789,"pine, w. e.",,6,6,1,24,6,0
+1792,"piry, sylvain",,6,6,1,35,6,0
+1800,"poesch, mark s.",,6,6,1,0,6,0
+1801,"poley, lucy g.",,6,6,1,4,6,0
+1808,"portiss, r.",,6,6,1,8,6,0
+1822,"prescott, t.",,6,6,1,29,6,0
+1840,"pywell, richard f.",,6,6,1,265,6,0
+1844,"quinones-guerrero, andres",,6,6,1,26,6,0
+1848,"raghunath, r.",,6,9,2,42,6,0
+1852,"ralovarisoa, etienne",,6,6,1,0,6,0
+1858,"ramp, daniel",,6,6,1,0,6,0
+1865,"ratelolahy, felix",,6,9,2,49,6,0
+1866,"rathore, devika",,6,6,1,3,6,0
+1868,"ravelojaona, rojo nadrianina",,6,6,1,0,6,0
+1869,"ravesi, michael j.",,6,6,1,27,6,0
+1871,"ray, justina c.",,6,6,1,4,6,0
+1872,"rayamajhi, trishna",,6,6,1,0,6,0
+1873,"razafindraibe, jary h.",,6,6,1,0,6,0
+1902,"richardson, t. w.",,6,6,1,34,6,0
+1917,"rivero, j.",,6,6,1,12,6,0
+1930,"robison, terry",,6,11,2,36,6,0
+1940,"rodrigues, thiago f.",,6,6,1,22,6,0
+1962,"roseman, edward f.",,6,6,1,0,6,0
+1964,"rosenberger, amanda e.",,6,6,1,26,6,0
+1978,"rowe, jennifer c.",,6,10,2,14,6,0
+1981,"roy, david b.",,6,6,1,265,6,0
+1989,"russell, r. e.",,6,6,1,34,6,0
+1990,"rustigian-romsos, heather l.",,6,6,1,13,6,0
+1997,"safford, h. d.",,6,6,1,34,6,0
+2008,"samelius, g.",,6,6,1,4,6,0
+2021,"sashika, mariko",,6,6,1,1,6,0
+2028,"savre, thomas",,6,6,1,4,6,0
+2051,"schuman, melinda j.",,6,6,1,11,6,0
+2098,"shimozuru, michito",,6,6,1,1,6,0
+2101,"shortall, c. r.",,6,6,1,29,6,0
+2110,"siitonen, juha",,6,6,1,1,6,0
+2119,"simpson, stephen j.",,6,6,1,35,6,0
+2127,"slauson, keith m.",,6,6,1,13,6,0
+2139,"snall, tord",,6,6,1,1,6,0
+2150,"southee, f. meg",,6,6,1,4,6,0
+2156,"spencer, wayne d.",,6,6,1,13,6,0
+2165,"stabach, jared a.",,6,6,1,13,6,0
+2174,"stein, john",,6,6,1,17,6,0
+2199,"studds, colin e.",,6,6,1,5,6,0
+2202,"subedi, naresh",,6,6,1,1,6,0
+2205,"sullivan, patrick j.",,6,6,1,21,6,0
+2212,"suryawanshi, k. r.",,6,6,1,4,6,0
+2213,"suryawanshi, kulbhushansingh ramesh",,6,6,1,3,6,0
+2224,"sword, gregory a.",,6,6,1,35,6,0
+2237,"tarbill, g. l.",,6,6,1,34,6,0
+2244,"tejeda, v",,6,6,1,12,6,0
+2253,"tetzlaff, sasha j.",,6,6,1,27,6,0
+2256,"thanet, dol raj",,6,6,1,0,6,0
+2275,"thorsen, neri h.",,6,6,1,6,6,0
+2304,"tsubota, toshio",,6,6,1,1,6,0
+2306,"tulloch, ayesha i. t.",,6,6,1,17,6,0
+2311,"tzanopoulos, joseph",,6,6,1,26,6,0
+2334,"van mierlo, victoria a.",,6,6,1,0,6,0
+2353,"veilleux, m. a. n.",,6,6,1,8,6,0
+2354,"velasquez-c, karen",,6,6,1,0,6,0
+2357,"veran, sophie",,6,6,1,35,6,0
+2364,"versiani, natalia f.",,6,6,1,22,6,0
+2377,"vogeler, jody c.",,6,6,1,1,6,0
+2391,"wallach, arian d.",,6,6,1,0,6,0
+2423,"wells, harry b. m.",,6,6,1,13,6,0
+2425,"wells, m.",,6,6,1,8,6,0
+2442,"whitman, matthew",,6,6,1,26,6,0
+2447,"wikle, christopher k.",,6,6,1,24,6,0
+2464,"wilson, howard b.",,6,6,1,5,6,0
+2485,"woodcock, ben a.",,6,6,1,265,6,0
+2488,"wooster, eamonn i. f.",,6,6,1,0,6,0
+2496,"wyatt, faye r.",,6,6,1,0,6,0
+2498,"xofis, panteleimon",,6,6,1,26,6,0
+2502,"yadav, ramesh kumar",,6,6,1,0,6,0
+2503,"yagui, h.",,6,6,1,12,6,0
+2506,"yanco, esty",,6,6,1,0,6,0
+2521,"zavaleta, arturo",,6,6,1,0,6,0
+2531,"zielinski, william j.",,6,6,1,13,6,0
+2532,"zimmerman, christian e.",,6,6,1,26,6,0
+2535,"zmihorski, michal",,6,6,1,15,6,0
+849,"green, adam w.",,5,5,2,45,5,0.014748
+1276,"link, william a.",,5,5,2,93,5,0.001056
+145,"baumgardt, jeremy a.",,5,5,2,8,5,0.00077
+1021,"ims, rolf a.",,5,5,2,19,5,0.00077
+890,"handel, colleen m.",,5,6,2,73,5,0.00057
+2153,"sparks, robert a.",,5,6,2,9,5,0.000282
+2068,"seglund, amy e.",,5,7,2,16,5,0.000128
+1033,"jachowski, david s.",,5,5,2,10,5,0.000002
+2039,"schauber, eric m.",,5,12,4,141,5,0.000002
+493,"daniela gomez, maria",,5,6,2,21,5,0.000001
+723,"fournier, valerie",,5,6,2,18,5,0.000001
+2385,"wagner, tyler",,5,5,2,16,5,0.000001
+1,"abellan, pedro",,5,5,1,0,5,0
+14,"ahlers, adam a.",,5,5,1,0,5,0
+21,"akre, thomas a.",,5,5,1,2,5,0
+41,"alves, fernanda",,5,5,1,1,5,0
+51,"anadon, jose d.",,5,5,1,0,5,0
+67,"antonelli, cecilia rocio",,5,5,1,0,5,0
+70,"applegate, roger d.",,5,5,1,21,5,0
+71,"apte, deepak",,5,5,1,3,5,0
+74,"arasumani, m.",,5,5,1,4,5,0
+75,"araya-gamboa, daniela",,5,5,1,4,5,0
+107,"balangtaa, cletus",,5,8,2,138,5,0
+116,"banner, katharine m.",,5,5,1,41,5,0
+117,"bar david, shirli",,5,5,1,1,5,0
+124,"barnett, jenny",,5,5,1,41,5,0
+144,"baumann, peter",,5,5,1,0,5,0
+154,"beier, paul",,5,5,1,10,5,0
+157,"bejraburnin, thawatchai",,5,5,1,9,5,0
+171,"benson, thomas j.",,5,5,1,7,5,0
+174,"bergallo, helena godoy",,5,8,2,27,5,0
+177,"berney, christophe",,5,5,1,0,5,0
+185,"beytell, piet c.",,5,5,1,5,5,0
+189,"bhattarai, nishan",,5,5,1,12,5,0
+193,"bino, g.",,5,5,1,9,5,0
+241,"bonter, david n.",,5,5,1,88,5,0
+242,"boone, edward l.",,5,5,1,18,5,0
+243,"bordage, daniel",,5,5,1,1,5,0
+247,"botero-canola, sebastian",,5,5,1,10,5,0
+248,"botsch, yves",,5,7,2,35,5,0
+252,"bouros, george",,5,5,1,13,5,0
+265,"braud, yoan",,5,5,1,2,5,0
+266,"brawn, jeffrey d.",,5,5,1,7,5,0
+288,"brosi, berry",,5,5,1,4,5,0
+289,"brown, donald j.",,5,5,1,6,5,0
+297,"buckley, david s.",,5,5,1,21,5,0
+299,"buedi, eric b.",,5,5,1,36,5,0
+305,"bunn, stuart e.",,5,5,1,18,5,0
+309,"burns, thomas",,5,5,1,1,5,0
+310,"burton, a. cole",,5,8,2,138,5,0
+311,"bush, clint l.",,5,5,1,2,5,0
+320,"caccianiga, m.",,5,5,1,10,5,0
+323,"call, erynn m.",,5,5,1,4,5,0
+329,"campa, henry, iii",,5,5,1,13,5,0
+332,"candelario, luis",,5,5,1,12,5,0
+339,"cardador, laura",,5,5,1,0,5,0
+344,"carrete, martina",,5,5,1,0,5,0
+351,"carter, stephen p.",,5,5,1,1,5,0
+361,"catlin, daniel h.",,5,5,1,4,5,0
+369,"chadwick, alicia",,5,5,1,1,5,0
+374,"chandler, richard e.",,5,5,1,30,5,0
+391,"chiriac, silviu",,5,5,1,13,5,0
+424,"combrisson, damien",,5,5,1,2,5,0
+427,"compostella, c.",,5,5,1,10,5,0
+440,"cook, robert",,5,5,1,148,5,0
+447,"cope, w. gregory",,5,5,1,6,5,0
+450,"corlett, r. t.",,5,5,1,6,5,0
+459,"couturier, thibaut",,5,5,1,2,5,0
+470,"croose, elizabeth",,5,5,1,1,5,0
+483,"curveira-santos, goncalo",,5,8,2,12,5,0
+501,"david sanchez-londono, juan",,5,5,1,10,5,0
+504,"davies, zoe g.",,5,5,1,18,5,0
+506,"davis, ray",,5,5,1,34,5,0
+527,"degaetano, arthur t.",,5,5,1,88,5,0
+539,"deppe, jill l.",,5,5,1,7,5,0
+540,"derlindati, enrique",,5,5,1,42,5,0
+542,"devers, patrick k.",,5,5,1,1,5,0
+558,"dickinson, janis l.",,5,5,1,88,5,0
+571,"dolev, amit",,5,5,1,1,5,0
+585,"drapeau, pierre",,5,5,1,21,5,0
+592,"droege, s",,5,5,1,3047,5,0
+595,"du preez, pierre",,5,5,1,5,5,0
+596,"duarte rocha, carlos frederico",,5,8,2,27,5,0
+614,"eakin, carly j.",,5,5,1,13,5,0
+622,"eide, nina e.",,5,5,1,0,5,0
+628,"elsey, erin a.",,5,5,1,9,5,0
+636,"erb, bruno",,5,5,1,0,5,0
+639,"espinoza-munoz, deiver",,5,5,1,4,5,0
+641,"esteve, miguel a.",,5,5,1,7,5,0
+642,"estevo, c. a.",,5,5,1,14,5,0
+646,"ewers, robert m.",,5,5,1,55,5,0
+656,"fandjinou, kossi",,5,5,1,1,5,0
+669,"fearer, todd",,5,5,1,6,5,0
+685,"field, sa",,5,5,1,539,5,0
+686,"figel, joe j.",,5,5,1,10,5,0
+689,"finegan, bryan",,5,5,1,4,5,0
+701,"fleschutz, mira m.",,5,5,1,18,5,0
+711,"ford, w. mark",,5,5,1,6,5,0
+713,"forero-medina, german",,5,5,1,10,5,0
+732,"fraser, james d.",,5,5,1,4,5,0
+733,"freeman, mary c.",,5,5,1,3,5,0
+743,"funston, p. j.",,5,5,1,8,5,0
+745,"furtado, mariana malzoni",,5,5,1,64,5,0
+753,"gallo, susan",,5,5,1,4,5,0
+795,"gigliotti, laura",,5,5,1,0,5,0
+814,"gobbi, m.",,5,5,1,10,5,0
+818,"goertler, pascale a. l.",,5,5,1,4,5,0
+830,"gompper, matthew e.",,5,5,1,12,5,0
+833,"goodman, steven m.",,5,5,1,12,5,0
+839,"gottlieb, isabel g. w.",,5,5,1,4,5,0
+843,"graf, roland f.",,5,5,1,27,5,0
+845,"grainger, matthew",,5,5,1,9,5,0
+855,"gregory, richard d.",,5,5,1,30,5,0
+887,"hamer, andrew j.",,5,6,4,10,5,0
+894,"hanniffy, ruth",,5,5,1,1,5,0
+898,"harper, craig a.",,5,5,1,21,5,0
+925,"heinsohn, robert",,5,5,1,1,5,0
+926,"heise, ryan j.",,5,5,1,6,5,0
+930,"henle, klaus",,5,5,1,18,5,0
+945,"herrmann, valentine",,5,5,1,2,5,0
+954,"higa, motoki",,5,5,1,25,5,0
+963,"hoa anh, nguyen q.",,5,5,1,1,5,0
+968,"hodgman, thomas p.",,5,5,1,4,5,0
+970,"hofer, heribert",,5,5,1,64,5,0
+975,"holley, k. sheena",,5,5,1,4,5,0
+988,"houghton, lawrence m.",,5,5,1,4,5,0
+991,"howell, christine a.",,5,5,1,19,5,0
+995,"hua, yan",,5,5,1,5,5,0
+996,"huang, g.",,5,5,1,6,5,0
+1002,"hughes, brian",,5,5,1,1,5,0
+1020,"imbeau, louis",,5,5,1,21,5,0
+1030,"isoke, sam",,5,5,1,9,5,0
+1040,"jacomo, anah t. a.",,5,5,1,64,5,0
+1046,"jarchow, christopher j.",,5,5,1,68,5,0
+1047,"jathanna, devcharan",,5,5,1,4,5,0
+1052,"jelks, howard l.",,5,5,1,3,5,0
+1054,"jenni, lukas",,5,7,2,35,5,0
+1059,"jiang, guangshun",,5,5,1,5,5,0
+1067,"johnson, amy e. m.",,5,5,1,2,5,0
+1074,"jones, gavin m.",,5,5,1,4,5,0
+1084,"joshi, viral",,5,5,1,4,5,0
+1089,"kafley, hemanta",,5,5,1,12,5,0
+1125,"kendall, katherine c.",,5,5,1,10,5,0
+1126,"kennard, mark j.",,5,5,1,18,5,0
+1133,"keyser, patrick d.",,5,5,1,21,5,0
+1134,"khadka, madhav",,5,5,1,12,5,0
+1142,"khot, rahul",,5,5,1,3,5,0
+1146,"killengreen, siw t.",,5,5,1,0,5,0
+1156,"kingsford, r. t.",,5,5,1,9,5,0
+1171,"koenig, walter d.",,5,5,1,88,5,0
+1173,"koizumi, itsuro",,5,5,1,25,5,0
+1178,"korner-nievergelt, franzi",,5,5,1,0,5,0
+1183,"kpelle, david g.",,5,5,1,36,5,0
+1191,"kross, chelsea s.",,5,5,1,2,5,0
+1202,"kwak, thomas j.",,5,5,1,6,5,0
+1203,"kwon, eunbi",,5,5,1,4,5,0
+1205,"lachman, gb",,5,5,1,3047,5,0
+1221,"langmore, naomi",,5,5,1,1,5,0
+1222,"langtimm, ca",,5,5,1,3047,5,0
+1225,"larkin, jeffery l.",,5,5,1,6,5,0
+1227,"larreur, max",,5,5,1,0,5,0
+1245,"lele, abhimanyu",,5,5,1,4,5,0
+1247,"lepage, christine",,5,5,1,1,5,0
+1250,"leslie, alison j.",,5,5,1,5,5,0
+1269,"lima, kyle a.",,5,5,1,4,5,0
+1297,"lopez-iborra, german m.",,5,5,1,1,5,0
+1338,"maclennan, s.",,5,5,1,8,5,0
+1339,"macleod, amy c.",,5,5,1,10,5,0
+1341,"macpherson, jenny",,5,5,1,1,5,0
+1349,"maffioletti, c.",,5,5,1,10,5,0
+1356,"maharjan, rupak",,5,5,1,12,5,0
+1369,"mammo, siraj",,5,5,1,1,5,0
+1381,"mansons, jerome",,5,5,1,2,5,0
+1382,"maor cohen, mia",,5,5,1,1,5,0
+1385,"maras, gustavo a.",,5,5,1,42,5,0
+1398,"martell, deborah",,5,5,1,3,5,0
+1403,"martin, zachary p.",,5,5,1,3,5,0
+1422,"mata, jose m.",,5,5,1,15,5,0
+1425,"matica, s. zoltan",,5,5,1,4,5,0
+1441,"mcaney, kate",,5,5,1,1,5,0
+1455,"mckay, meredith",,5,5,1,0,5,0
+1506,"mkasanga, imani j.",,5,5,1,3,5,0
+1516,"monroe, kelen d.",,5,5,1,5,5,0
+1550,"mourguiart, bastien",,5,5,1,2,5,0
+1578,"nagy-reis, m. b.",,5,5,1,14,5,0
+1583,"nareff, gretchen e.",,5,5,1,6,5,0
+1607,"nguyen, hoa t.",,5,5,1,1,5,0
+1610,"nichols, robert b.",,5,5,1,6,5,0
+1616,"niejalke, d",,5,5,1,539,5,0
+1631,"noss, reed f.",,5,5,1,10,5,0
+1637,"nunez-regueiro, mauricio m.",,5,5,1,42,5,0
+1649,"o'neal, benjamin j.",,5,5,1,0,5,0
+1657,"ocock, j. f.",,5,5,1,9,5,0
+1675,"olson, bryce t.",,5,5,1,0,5,0
+1679,"ono, satoru",,5,5,1,25,5,0
+1690,"outhwaite, charlotte l.",,5,5,1,30,5,0
+1698,"padding, paul, i",,5,5,1,1,5,0
+1702,"pal, saunak",,5,5,1,3,5,0
+1708,"pandolfo, tamara j.",,5,5,1,6,5,0
+1717,"parris, k",,5,5,1,539,5,0
+1725,"patel, pinal",,5,5,1,3,5,0
+1743,"pe'er, guy",,5,5,1,18,5,0
+1751,"pellet, j",,5,6,3,198,5,0
+1761,"pereira-ribeiro, juliane",,5,8,2,27,5,0
+1764,"perotto-baldivieso, humberto l.",,5,5,1,15,5,0
+1765,"perry, mike",,5,5,1,0,5,0
+1778,"pfeifer, marion",,5,5,1,55,5,0
+1781,"phoonjampa, rungnapa",,5,5,1,9,5,0
+1782,"phumanee, worrapan",,5,5,1,9,5,0
+1805,"pop, mihai i.",,5,5,1,13,5,0
+1809,"possingham, hp",,5,5,1,539,5,0
+1812,"potter, david s.",,5,5,1,4,5,0
+1815,"powney, gary d.",,5,5,1,30,5,0
+1816,"prabhu, mrugank",,5,5,1,3,5,0
+1825,"prevedello, jayme augusto",,5,5,1,22,5,0
+1829,"priol, pauline",,5,5,1,21,5,0
+1833,"provensal, maria cecilia",,5,5,1,0,5,0
+1838,"puente-rolon, alberto r.",,5,5,1,5,5,0
+1842,"quan, r. c.",,5,5,1,6,5,0
+1847,"radvan, max",,5,5,1,1,5,0
+1855,"ramiere, jessica",,5,5,1,21,5,0
+1859,"ramseier, petra",,5,5,1,0,5,0
+1861,"randall, georgia",,5,5,1,1,5,0
+1867,"rato, daniela",,5,5,1,0,5,0
+1870,"rawson, benjamin m.",,5,5,1,1,5,0
+1879,"reich, brian j.",,5,5,1,5,5,0
+1881,"reichman, alon",,5,5,1,1,5,0
+1882,"reid, janice",,5,5,1,34,5,0
+1895,"ribeiro, m. c.",,5,5,1,14,5,0
+1909,"riley, jeffrey w.",,5,5,1,27,5,0
+1921,"roberts, anthony j.",,5,5,1,1,5,0
+1923,"robin, v. v.",,5,5,1,4,5,0
+1931,"robledano, francisco",,5,5,1,7,5,0
+1935,"rod-eriksen, lars",,5,5,1,0,5,0
+1936,"rode, brian",,5,5,1,12,5,0
+1937,"rodewald, amanda d.",,5,5,1,2,5,0
+1942,"rodriguez, rogelio m.",,5,5,1,41,5,0
+1947,"rohrbaugh, ronald w.",,5,5,1,2,5,0
+1963,"rosenberg, kenneth v.",,5,5,1,2,5,0
+1970,"rossman, sam",,5,5,1,34,5,0
+1977,"rowe, d. bradley",,5,5,1,13,5,0
+2002,"saltz, david",,5,5,1,1,5,0
+2007,"sam, moses k.",,5,8,2,138,5,0
+2010,"san miguel, tomas valentin",,5,5,1,0,5,0
+2011,"san, emmanuel do linh",,5,5,1,9,5,0
+2022,"satterfield, lauren c.",,5,5,1,12,5,0
+2030,"sawyer, sarah c.",,5,5,1,19,5,0
+2041,"scherl, daniel",,5,5,1,27,5,0
+2043,"schmera, denes",,5,6,2,9,5,0
+2048,"schreier, brian m.",,5,5,1,4,5,0
+2049,"schuettler, elke",,5,5,1,18,5,0
+2055,"schwalbe, cecil r.",,5,5,1,68,5,0
+2067,"seesholtz, alicia m.",,5,5,1,4,5,0
+2074,"senn-irlet, beatrice",,5,5,1,0,5,0
+2076,"senzaki, masayuki",,5,5,1,25,5,0
+2078,"seppi, r.",,5,5,1,10,5,0
+2082,"settlage, robert e.",,5,5,1,4,5,0
+2083,"setz, e. z. f.",,5,5,1,14,5,0
+2085,"shakya, anjali w.",,5,5,1,4,5,0
+2086,"shamon, hila",,5,5,1,1,5,0
+2092,"sheldon, fran",,5,5,1,18,5,0
+2107,"siffert, oceane",,5,5,1,0,5,0
+2116,"silveira, leandro",,5,5,1,64,5,0
+2126,"slabbert, ruhan",,5,5,1,5,5,0
+2136,"smith, lora",,5,5,1,4,5,0
+2155,"spencer, j.",,5,5,1,9,5,0
+2162,"sreekar, r.",,5,5,1,6,5,0
+2175,"steinmetz, robert",,5,5,1,9,5,0
+2176,"stetz, jeffrey b.",,5,5,1,10,5,0
+2180,"stewart-koster, ben",,5,5,1,18,5,0
+2181,"stien, audun",,5,5,1,0,5,0
+2182,"stien, jennifer",,5,5,1,0,5,0
+2184,"stillman, andrew n.",,5,5,1,19,5,0
+2186,"stodola, kirk w.",,5,5,1,7,5,0
+2187,"stojanovic, dejan",,5,5,1,1,5,0
+2207,"summers, savanna",,5,5,1,3,5,0
+2218,"swanepoel, lourens h.",,5,8,2,12,5,0
+2219,"swarthout, sara barker",,5,5,1,2,5,0
+2220,"swartwout, meredith c.",,5,5,1,2,5,0
+2226,"szewczak, joseph m.",,5,5,1,28,5,0
+2228,"tablado, zulima",,5,5,1,27,5,0
+2232,"talamo, andres",,5,5,1,42,5,0
+2245,"tella, jose l.",,5,5,1,0,5,0
+2249,"tenhumberg, b",,5,5,1,539,5,0
+2250,"terando, adam j.",,5,5,1,5,5,0
+2254,"tewes, michael e.",,5,5,1,15,5,0
+2264,"thomas, pete",,5,5,1,0,5,0
+2265,"thomas, r. f.",,5,5,1,9,5,0
+2270,"thompson, jeffrey j.",,5,5,1,12,5,0
+2284,"tobler, ursina",,5,5,1,0,5,0
+2286,"tomas, walfrido moraes",,5,5,1,22,5,0
+2287,"tomlinson, k. w.",,5,5,1,6,5,0
+2289,"torres, natalia mundim",,5,5,1,64,5,0
+2294,"tran, dung v.",,5,5,1,1,5,0
+2301,"trudeau, caroline",,5,5,1,21,5,0
+2307,"tveraa, torkild",,5,5,1,0,5,0
+2308,"tyre, aj",,5,5,1,539,5,0
+2324,"valenzuela, leonor",,5,5,1,10,5,0
+2340,"van, thinh n.",,5,5,1,1,5,0
+2343,"vander yacht, andrew l.",,5,5,1,21,5,0
+2355,"velho, n.",,5,5,1,6,5,0
+2363,"versfeld, william f.",,5,5,1,5,5,0
+2368,"vierling, kerri t.",,5,5,1,28,5,0
+2369,"vierling, lee a.",,5,5,1,28,5,0
+2375,"vishnudas, c. k.",,5,5,1,4,5,0
+2376,"vitekere, kasereka",,5,5,1,5,5,0
+2379,"von felten, stefanie",,5,5,1,0,5,0
+2381,"vu, thinh t.",,5,5,1,1,5,0
+2387,"walk, jeffery w.",,5,5,1,7,5,0
+2394,"walsh, stephen j.",,5,5,1,3,5,0
+2397,"wang, jiao",,5,5,1,5,5,0
+2405,"ward, michael p.",,5,5,1,7,5,0
+2408,"wassens, s.",,5,5,1,9,5,0
+2412,"wearn, oliver r.",,5,5,1,55,5,0
+2414,"webb, matthew h.",,5,5,1,1,5,0
+2429,"wesche, spencer l.",,5,5,1,0,5,0
+2431,"weston, michael a.",,5,5,1,1,5,0
+2432,"westphal, joanne",,5,5,1,13,5,0
+2436,"wheeler, kit",,5,5,1,3,5,0
+2469,"windels, steve k.",,5,5,1,0,5,0
+2483,"wood, eric m.",,5,5,1,2,5,0
+2484,"wood, petra b.",,5,5,1,6,5,0
+2490,"wright, elaine f.",,5,5,1,0,5,0
+2500,"yabuhara, yuki",,5,5,1,25,5,0
+2514,"zaman, muhammad",,5,5,1,5,5,0
+2530,"zhu, mengyan",,5,5,1,5,5,0
+2538,"zou, fasheng",,5,6,2,0,5,0
+519,"de valpine, perry",,4,4,2,10,4,0.004206
+1098,"karanth, k. u.",,4,4,2,44,4,0.003238
+576,"dorazio, robert m.",,4,4,2,196,4,0.003177
+392,"christensen, sonja a.",,4,5,2,2,4,0.002668
+2453,"williams, david m.",,4,5,2,2,4,0.002668
+1973,"rotenberry, john t.",,4,4,2,14,4,0.002282
+1152,"king, david i.",,4,5,3,185,4,0.00077
+1635,"nowak, j. joshua",,4,4,2,30,4,0.00005
+876,"hagen, christian a.",,4,4,2,22,4,0.000015
+128,"barrett, kyle",,4,4,2,23,4,0.000004
+2416,"weckerly, floyd w.",,4,4,3,32,4,0.000002
+927,"hellgren, eric c.",,4,9,3,140,4,0.000001
+1280,"litt, andrea r.",,4,6,2,17,4,0.000001
+1595,"neubauer, grzegorz",,4,4,2,0,4,0.000001
+2491,"wright, wilson j.",,4,6,2,17,4,0.000001
+17,"ahmed, m. f.",,4,4,1,7,4,0
+25,"alcoverro, teresa",,4,4,1,20,4,0
+32,"ali, h.",,4,4,1,65,4,0
+37,"almeyda zambrano, angelica",,4,4,1,10,4,0
+38,"altman, bob",,4,8,2,26,4,0
+42,"alves, paulo c.",,4,4,1,38,4,0
+47,"amgalanbaatar, sukh",,4,4,1,7,4,0
+52,"ancillotto, leonardo",,4,4,1,0,4,0
+58,"anderson, t. l.",,4,4,1,28,4,0
+68,"antongiovanni, marina",,4,4,1,12,4,0
+78,"ariefiandy, achmad",,4,4,1,28,4,0
+80,"arnett, edward b.",,4,8,2,26,4,0
+82,"arthur, rohan",,4,4,1,20,4,0
+83,"aryal, achyut",,4,4,1,20,4,0
+85,"asbeck, thomas",,4,4,1,4,4,0
+88,"astaras, christos",,4,4,1,3,4,0
+90,"augugliaro, claudio",,4,4,1,1,4,0
+101,"bailey, ll",,4,6,2,614,4,0
+110,"balkenhol, niko",,4,4,1,15,4,0
+123,"barnas, gabriella r.",,4,4,1,12,4,0
+131,"barta, barbara",,4,4,1,4,4,0
+132,"barton, christopher d.",,4,4,1,8,4,0
+133,"barton, daniel c.",,4,4,1,0,4,0
+135,"bartz, krista k.",,4,4,1,4,4,0
+138,"basile, marco",,4,4,1,4,4,0
+139,"bata, madeleine ngo",,4,4,1,13,4,0
+149,"bechet, arnaud",,4,4,1,34,4,0
+153,"begum, r. h.",,4,4,1,7,4,0
+166,"benitez-malvido, julieta",,4,4,1,0,4,0
+172,"berberich, m. e.",,4,4,1,0,4,0
+180,"bertram, mark r.",,4,4,1,9,4,0
+182,"bettoli, phillip w.",,4,6,2,16,4,0
+186,"bezerra, daniel",,4,4,1,12,4,0
+207,"blakesley, jennifer a.",,4,4,1,57,4,0
+209,"blanc, frederic",,4,4,1,0,4,0
+210,"blanc, laetitia",,4,4,1,20,4,0
+214,"blank, peter j.",,4,4,1,14,4,0
+219,"block, william m.",,4,4,1,16,4,0
+231,"bohus, attila",,4,4,1,4,4,0
+238,"bonner, simon j.",,4,4,1,8,4,0
+250,"bouffard, m. c.",,4,4,1,0,4,0
+260,"brady, ryan s.",,4,4,1,15,4,0
+276,"brewer, m. j.",,4,4,1,5,4,0
+281,"brittain, stephanie",,4,4,1,13,4,0
+282,"broadbent, eben",,4,4,1,10,4,0
+292,"browne, luke",,4,4,1,5,4,0
+294,"brusa, jamie l.",,4,4,1,5,4,0
+302,"buisson, laetitia",,4,4,1,0,4,0
+304,"bump, joseph k.",,4,4,1,13,4,0
+341,"carle, ryan d.",,4,4,1,1,4,0
+342,"carlson, stephanie m.",,4,4,1,0,4,0
+343,"carmichael, ruth h.",,4,4,1,0,4,0
+348,"carroll, c. ronald",,4,4,1,26,4,0
+354,"casper, andrew f.",,4,4,1,9,4,0
+355,"cassel, kevin w.",,4,4,1,2,4,0
+364,"cayuela, hugo",,4,4,1,34,4,0
+376,"charbonnel, anais",,4,4,1,0,4,0
+382,"chen, guoke",,4,4,1,102,4,0
+394,"ciofi, claudio",,4,4,1,28,4,0
+401,"clipp, hannah l.",,4,4,1,2,4,0
+403,"cloyed, carl s.",,4,4,1,0,4,0
+404,"clucas, barbara",,4,4,1,0,4,0
+411,"coetsee, amy l.",,4,4,1,9,4,0
+422,"colodro, valentina",,4,4,1,1,4,0
+439,"cook, rachel n.",,4,4,1,5,4,0
+442,"cooksley, s. l.",,4,4,1,5,4,0
+443,"coon, courtney a. c.",,4,4,1,4,4,0
+451,"corral, lucia",,4,4,1,2,4,0
+465,"crawford, john a.",,4,5,2,40,4,0
+482,"curtis, paul d.",,4,4,1,99,4,0
+485,"cushman, samuel a.",,4,7,2,11,4,0
+488,"d'souza, elrika",,4,4,1,20,4,0
+490,"dacosta, kayla p.",,4,4,1,0,4,0
+495,"das, s. k.",,4,4,1,7,4,0
+515,"de oliveira, teo vega",,4,4,1,7,4,0
+516,"de ornellas, paul",,4,4,1,13,4,0
+520,"deboer, jason a.",,4,4,1,9,4,0
+523,"dechner, andrea",,4,4,1,7,4,0
+533,"demetrio, clarice g. b.",,4,4,1,3,4,0
+544,"devictor, vincent",,4,4,1,34,4,0
+557,"diaz-ruiz, francisco",,4,4,1,0,4,0
+566,"dobbins, michael",,4,4,1,10,4,0
+569,"doherty, tim s.",,4,4,1,9,4,0
+574,"donnelly, d.",,4,4,1,5,4,0
+580,"drake, d. l.",,4,4,1,28,4,0
+590,"dri, gabriela franzoi",,4,4,1,0,4,0
+598,"duarte, leandro da silva",,4,4,1,9,4,0
+599,"dubour, adam j.",,4,4,1,9,4,0
+603,"dudley, jonathan g.",,4,4,1,16,4,0
+607,"dunning, john b., jr.",,4,4,1,20,4,0
+618,"edelblutte, emilie",,4,4,1,4,4,0
+626,"ellis, martha m.",,4,4,1,5,4,0
+627,"ellis, mike",,4,4,1,5,4,0
+643,"evans, amber l.",,4,4,1,2,4,0
+654,"fallon, frederick w.",,4,4,1,14,4,0
+655,"fallon, jane e.",,4,4,1,14,4,0
+662,"farrell, shannon",,4,4,1,1,4,0
+684,"fidino, mason",,4,4,1,12,4,0
+702,"flesher, kevin m.",,4,4,1,7,4,0
+706,"fogarty, frank a.",,4,5,2,4,4,0
+717,"foss, carol",,4,4,1,1,4,0
+720,"foster, nicholas j.",,4,4,1,0,4,0
+728,"francisco, diaz-ruiz",,4,4,1,38,4,0
+729,"franklin, ab",,4,4,1,1184,4,0
+736,"frink, teresa j.",,4,4,1,2,4,0
+738,"fritts, mark w.",,4,4,1,9,4,0
+751,"gal, blanka",,4,4,1,4,4,0
+765,"garcia-diaz, pablo",,4,4,1,1,4,0
+772,"garrott, robert a.",,4,4,1,5,4,0
+775,"gatti, sylvain",,4,4,1,20,4,0
+783,"geldard, robyn p.",,4,4,1,0,4,0
+793,"gibson-reinemer, daniel k.",,4,4,1,9,4,0
+799,"gill, robert e., jr.",,4,4,1,4,4,0
+810,"glisson, wesley j.",,4,4,1,15,4,0
+812,"glowacki, gary a.",,4,4,1,2,4,0
+817,"godoy, wesley a. c.",,4,4,1,3,4,0
+832,"goodale, eben",,4,4,1,5,4,0
+851,"green, david s.",,4,4,1,19,4,0
+854,"greenberg, russell",,4,4,1,26,4,0
+860,"grouard, s.",,4,4,1,4,4,0
+862,"gu, hao",,4,4,1,5,4,0
+870,"gurney, kirsty e. b.",,4,4,1,0,4,0
+878,"hahn, beth a.",,4,4,1,8,4,0
+885,"hameed, s.",,4,4,1,65,4,0
+893,"hanni, david j.",,4,4,1,57,4,0
+896,"harihar, a.",,4,4,1,7,4,0
+907,"hartz, sandra maria",,4,4,1,9,4,0
+908,"harveson, louis a.",,4,4,1,0,4,0
+909,"harveson, patricia moody",,4,4,1,0,4,0
+941,"herrel, a.",,4,4,1,4,4,0
+947,"hester, michelle",,4,4,1,1,4,0
+950,"hewitt, matthew o.",,4,4,1,0,4,0
+953,"hieb, elizabeth e.",,4,4,1,0,4,0
+960,"hinde, john",,4,4,1,3,4,0
+962,"hines, je",,4,4,1,1184,4,0
+969,"hodum, peter",,4,4,1,1,4,0
+972,"holekamp, kay e.",,4,4,1,19,4,0
+984,"hong, yongmi",,4,4,1,0,4,0
+993,"hoy, sarah r.",,4,4,1,13,4,0
+1000,"hudgens, b. r.",,4,4,1,0,4,0
+1007,"hunter, malcolm l.",,4,4,1,0,4,0
+1014,"hutton, jacob m.",,4,4,1,8,4,0
+1038,"jacobi, sarah k.",,4,4,1,15,4,0
+1056,"jessop, tim s.",,4,4,1,28,4,0
+1069,"johnson, devin s.",,4,6,2,25,4,0
+1081,"jorgensen, christopher f.",,4,4,1,9,4,0
+1086,"kabir, m.",,4,4,1,65,4,0
+1099,"karelus, dana l.",,4,4,1,0,4,0
+1104,"karubian, jordan",,4,4,1,5,4,0
+1106,"kaszta, zaneta",,4,7,2,11,4,0
+1111,"kawanishi, k",,4,4,1,304,4,0
+1114,"ke, alison",,4,4,1,0,4,0
+1117,"keesing, felicia",,4,4,1,0,4,0
+1119,"kelkar, nachiket",,4,4,1,20,4,0
+1128,"kennedy, patricia l.",,4,4,1,5,4,0
+1132,"kessinger, brin e.",,4,4,1,2,4,0
+1136,"khanal, gopal",,4,4,1,20,4,0
+1143,"kidwai, zaara",,4,4,1,17,4,0
+1168,"knutson, mg",,4,4,1,1184,4,0
+1176,"kolstrom, rebecca",,4,4,1,4,4,0
+1188,"krofel, miha",,4,4,1,1,4,0
+1192,"kruger, laurence m.",,4,4,1,11,4,0
+1198,"kun, shi",,4,4,1,0,4,0
+1207,"laffaille, pascal",,4,4,1,0,4,0
+1210,"lahkar, d.",,4,4,1,7,4,0
+1214,"lambert, joseph p.",,4,4,1,0,4,0
+1224,"larkin, daniel j.",,4,4,1,15,4,0
+1242,"lehrer, elizabeth w.",,4,4,1,12,4,0
+1249,"lerch, michael d.",,4,4,1,5,4,0
+1257,"lewis, tyler l.",,4,4,1,9,4,0
+1258,li yibin,,4,4,1,0,4,0
+1271,"lindell, catherine",,4,4,1,7,4,0
+1284,"lkhagvasuren, badamjav",,4,4,1,7,4,0
+1291,"loggins, anne a.",,4,4,1,11,4,0
+1301,"louppe, v.",,4,4,1,4,4,0
+1303,"louw, cornelius j.",,4,4,1,17,4,0
+1318,"lusk, jeffery j.",,4,4,1,9,4,0
+1323,"luza, andre luis",,4,4,1,9,4,0
+1328,"ma, keping",,4,4,1,102,4,0
+1348,"maestri, renan",,4,4,1,9,4,0
+1352,"magle, seth b.",,4,4,1,12,4,0
+1359,"mahoney, peter j.",,4,4,1,4,4,0
+1368,"maloney, richard f.",,4,4,1,0,4,0
+1375,"mangipane, buck a.",,4,4,1,4,4,0
+1386,"marboutin, eric",,4,4,1,20,4,0
+1387,"marescot, lucile",,4,4,1,9,4,0
+1389,"marinho, paulo henrique",,4,4,1,12,4,0
+1396,"marshal, jason p.",,4,4,1,17,4,0
+1397,"marta, silvio",,4,4,1,16,4,0
+1402,"martin, russell l.",,4,4,1,0,4,0
+1412,"martinez-marti, chele",,4,4,1,15,4,0
+1420,"massie, danielle l.",,4,4,1,4,4,0
+1427,"matthews, kathleen r.",,4,4,1,0,4,0
+1431,"maurer, brian a.",,4,4,1,7,4,0
+1439,"mbisana, christopher",,4,6,2,29,4,0
+1440,"mcalpine-bellis, e.",,4,4,1,0,4,0
+1451,"mcdonald, zara",,4,4,1,4,4,0
+1460,"mcnulty, stacy",,4,4,1,1,4,0
+1474,"menke, scot",,4,4,1,10,4,0
+1481,"midlane, n.",,4,4,1,20,4,0
+1484,"mikusinski, grzegorz",,4,4,1,4,4,0
+1493,"mills, simon c.",,4,4,1,0,4,0
+1496,"milner-gulland, e. j.",,4,4,1,13,4,0
+1500,"miritis, vivianna",,4,4,1,9,4,0
+1504,"mitchell, simon l.",,4,4,1,4,4,0
+1513,"molteni, riccardo",,4,4,1,0,4,0
+1517,"monroy-hernandez, erandi",,4,4,1,0,4,0
+1535,"mori, emiliano",,4,4,1,0,4,0
+1540,"morrison, scott a.",,4,4,1,83,4,0
+1549,"mougeot, francois",,4,4,1,6,4,0
+1552,"mowry, stacy",,4,4,1,0,4,0
+1558,"munguia-steyer, roberto",,4,4,1,0,4,0
+1563,"murdoch, james d.",,4,4,1,7,4,0
+1569,"murray, maureen h.",,4,4,1,12,4,0
+1588,"nawaz, m. a.",,4,4,1,65,4,0
+1591,"nel, h. p.",,4,4,1,17,4,0
+1593,"nelson, misty d.",,4,4,1,0,4,0
+1594,"nemoz, melanie",,4,4,1,0,4,0
+1632,"novaga, riccardo",,4,4,1,0,4,0
+1638,"nussle, sebastien c.",,4,4,1,0,4,0
+1653,"oakleaf, robert j.",,4,4,1,5,4,0
+1669,"oliva-paterna, francisco j.",,4,7,2,6,4,0
+1673,"olivier, anthony",,4,4,1,34,4,0
+1676,"olson, lucretia e.",,4,4,1,5,4,0
+1682,"oropeza-sanchez, marco tulio",,4,4,1,0,4,0
+1686,"ostfeld, richard s.",,4,4,1,0,4,0
+1689,"ousterhout, b. h.",,4,4,1,28,4,0
+1695,"pachomski, amanda",,4,4,1,1,4,0
+1705,"palazon, jose a.",,4,4,1,15,4,0
+1710,"panthi, saroj",,4,4,1,20,4,0
+1716,"parren, molly k.",,4,4,1,0,4,0
+1724,"patankar, vardhan",,4,4,1,20,4,0
+1727,"paterson, j. terrill",,4,4,1,5,4,0
+1736,"paulios, andy t.",,4,4,1,15,4,0
+1744,"peabotuwage, indika",,4,4,1,5,4,0
+1753,"pendleton, jennifer",,4,4,1,0,4,0
+1757,"pereira trindade, jose pedro",,4,4,1,9,4,0
+1758,"pereira, joao m. cordeiro",,4,4,1,4,4,0
+1763,"perillo, joseph",,4,4,1,4,4,0
+1768,"peterman, w. e.",,4,4,1,28,4,0
+1770,"peters, valerie e.",,4,4,1,26,4,0
+1785,"pierce, daryl",,4,4,1,4,4,0
+1793,"pisanu, b.",,4,4,1,4,4,0
+1798,"plattner, matthias",,4,4,1,102,4,0
+1811,"potoka, k. m.",,4,6,2,16,4,0
+1814,"powell, larkin a.",,4,4,1,9,4,0
+1824,"preuss, timothy s.",,4,4,1,2,4,0
+1826,"price, steven j.",,4,4,1,8,4,0
+1839,"purwandana, deni",,4,4,1,28,4,0
+1851,"rainbolt, raymond e.",,4,4,1,99,4,0
+1857,"ramirez-parada, tadeo",,4,4,1,5,4,0
+1875,"reading, richard p.",,4,4,1,7,4,0
+1885,"reigada, carolina",,4,4,1,3,4,0
+1904,"richter, stephen c.",,4,4,1,8,4,0
+1907,"riegel, jeffery k.",,4,4,1,20,4,0
+1912,"riordan, philip",,4,4,1,0,4,0
+1943,"rodriguez-recio, mariano",,4,4,1,0,4,0
+1954,"romano, antonio",,4,6,2,10,4,0
+1958,"rosa, giacomo",,4,4,1,0,4,0
+1969,"ross, monica",,4,4,1,0,4,0
+1984,"ruhl, patrick j.",,4,4,1,20,4,0
+1991,"ruthrauff, daniel r.",,4,4,1,4,4,0
+2000,"salguero, antonio j.",,4,4,1,6,4,0
+2004,"salvatori, marco",,4,4,1,1,4,0
+2015,"sanderlin, jamie s.",,4,4,1,16,4,0
+2020,"sarasola, jose hernan",,4,4,1,1,4,0
+2032,"saylor, c. f.",,4,4,1,13,4,0
+2037,"schaub, michael",,4,5,2,7,4,0
+2063,"seamans, mark e.",,4,4,1,146,4,0
+2064,"searle, charlotte e.",,4,4,1,3,4,0
+2065,"seddon, philip j.",,4,4,1,0,4,0
+2075,"seno, aganto",,4,4,1,28,4,0
+2077,"seoane, javier",,4,4,1,1,4,0
+2097,"shiklomanov, alexey n.",,4,4,1,0,4,0
+2103,"shu, zufei",,4,4,1,0,4,0
+2104,"shute, p. w.",,4,4,1,13,4,0
+2105,"sibiya, m.",,4,4,1,8,4,0
+2109,"signer, johannes",,4,4,1,15,4,0
+2122,"singh, rohit",,4,4,1,9,4,0
+2134,"smith, geoffrey d.",,4,4,1,4,4,0
+2143,"socolar, jacob b.",,4,4,1,0,4,0
+2158,"spezia, l.",,4,4,1,5,4,0
+2159,"squires, john r.",,4,4,1,5,4,0
+2164,"srivathsa, arjun",,4,4,1,20,4,0
+2167,"stanton, r. a.",,4,4,1,8,4,0
+2169,"steel, zachary l.",,4,4,1,0,4,0
+2179,"stewart, david r.",,4,4,1,9,4,0
+2185,"stinson, lani t.",,4,4,1,8,4,0
+2189,"stoner, david c.",,4,4,1,4,4,0
+2190,"storch, ilse",,4,4,1,4,4,0
+2192,"strampelli, paolo",,4,4,1,3,4,0
+2196,"struebig, matthew j.",,4,4,1,4,4,0
+2198,"stuber, erica f.",,4,4,1,2,4,0
+2200,"suazo-ortuno, ireri",,4,4,1,0,4,0
+2216,"sutton, n",,4,4,1,304,4,0
+2229,"tack, jason d.",,4,4,1,8,4,0
+2239,"teator, marissa",,4,4,1,0,4,0
+2260,"thayer, l.",,4,4,1,0,4,0
+2261,"theisinger, ole",,4,4,1,0,4,0
+2271,"thompson, laura",,4,4,1,0,4,0
+2278,"tibbitts, t. lee",,4,4,1,4,4,0
+2282,"tobajas, jorge",,4,4,1,0,4,0
+2295,"travaini, alejandro",,4,4,1,1,4,0
+2296,"tree, a.",,4,4,1,5,4,0
+2333,"van heezik, yolanda",,4,4,1,0,4,0
+2345,"vanek, john p.",,4,4,1,2,4,0
+2349,"vashon, jennifer h.",,4,4,1,0,4,0
+2356,"venticinque, eduardo martins",,4,4,1,12,4,0
+2361,"veron, g.",,4,4,1,4,4,0
+2371,"villanua, diego",,4,4,1,0,4,0
+2382,"vucetich, john a.",,4,4,1,13,4,0
+2390,"wallace, zachary p.",,4,4,1,5,4,0
+2418,"wegan, michael t.",,4,6,2,174,4,0
+2420,"weiskopf, sarah r.",,4,4,1,0,4,0
+2435,"wheedleton, sarah",,4,4,1,0,4,0
+2439,"white, gary c.",,4,4,1,57,4,0
+2452,"wilkins, laetitia g. e.",,4,4,1,0,4,0
+2466,"wilson, tammy l.",,4,4,1,4,4,0
+2470,"wingard, ganchimeg",,4,4,1,7,4,0
+2509,"yen, jian d. l.",,4,4,1,0,4,0
+2515,"zamora-lopez, antonio",,4,7,2,6,4,0
+2516,"zamora-marin, jose m.",,4,7,2,6,4,0
+2518,"zanon martinez, juan i.",,4,4,1,1,4,0
+2526,"zhang, qiang",,4,4,1,0,4,0
+2529,"zhou, wenjing",,4,4,1,5,4,0
+2533,"zimmermann, fridolin",,4,4,1,20,4,0
+824,"goldstein, benjamin r.",,3,3,2,6,3,0.004585
+395,"clark, allan e.",,3,3,2,36,3,0.000839
+1645,"o'donnell, k. m.",,3,4,2,81,3,0.000192
+666,"faulkner, stephen p.",,3,4,2,21,3,0.000089
+63,"andrews, lawrence s.",,3,4,2,106,3,0.000003
+66,"anthony, robert g.",,3,4,2,106,3,0.000003
+901,"harris, nyeema c.",,3,3,2,6,3,0.000001
+5,"acevedo, pelayo",,3,3,1,0,3,0
+9,"adams, layne g.",,3,3,1,22,3,0
+13,"aguzzi, stefano",,3,3,1,1,3,0
+20,"akkawi, paula",,3,3,1,10,3,0
+23,"alakoski, r.",,3,3,1,15,3,0
+26,"aldridge, cameron l.",,3,3,1,12,3,0
+27,"aldridge, cileb a.",,3,3,1,0,3,0
+36,"almberg, emily s.",,3,3,1,13,3,0
+43,"aman, jacob",,3,3,1,0,3,0
+46,"amelon, sybill k.",,3,3,1,1,3,0
+79,"armenteras, dolors",,3,3,1,3,3,0
+86,"ascensao, fernando",,3,3,1,51,3,0
+99,"bailey, amanda m.",,3,3,1,12,3,0
+111,"ball-damerow, j. e.",,3,3,1,13,3,0
+113,"bancila, raluca ioana",,3,3,1,7,3,0
+114,"bani, luciano",,3,3,1,1,3,0
+115,"banks, w. taylor",,3,3,1,0,3,0
+126,"barnick, kelsey a.",,3,3,1,0,3,0
+127,"barreto, elisa",,3,3,1,6,3,0
+130,"barrows, cameron",,3,3,1,2,3,0
+140,"bauder, javan m.",,3,3,1,15,3,0
+152,"bedward, michael",,3,6,2,7,3,0
+158,"bekker, dick l.",,3,3,1,10,3,0
+160,"belisle, marc",,3,3,1,5,3,0
+165,"bence, james r.",,3,3,1,2,3,0
+178,"bersacola, elena",,3,3,1,0,3,0
+197,"bissonette, john a.",,3,3,1,51,3,0
+205,"blackburn, jason k.",,3,3,1,22,3,0
+212,"blanco-aguiar, jose a.",,3,3,1,0,3,0
+215,"blass, chad r.",,3,3,1,4,3,0
+217,"bleisch, william v.",,3,4,2,18,3,0
+222,"bly, bartholomew",,3,3,1,9,3,0
+232,"boman, erik",,3,3,1,0,3,0
+234,"bonavigo, paulo h.",,3,3,1,1,3,0
+253,"bower, michael r.",,3,3,1,23,3,0
+256,"boyce, mark s.",,3,3,1,30,3,0
+259,"bradstock, ross a.",,3,6,2,7,3,0
+270,"breininger, daniel j.",,3,3,1,3,3,0
+272,"breininger, robert d.",,3,3,1,3,3,0
+273,"brejao, gabriel lourenco",,3,3,1,23,3,0
+274,"brennan, leonard a.",,3,3,1,2,3,0
+277,"brewer, shannon k.",,3,4,2,13,3,0
+286,"brommer, j. e.",,3,3,1,15,3,0
+296,"buckland, stephen t.",,3,3,1,12,3,0
+298,"budy, phaedra",,3,3,1,30,3,0
+313,"bustamante, javier",,3,3,1,7,3,0
+314,"buxton, andrew s.",,3,3,1,5,3,0
+316,"byerly, paige a.",,3,3,1,2,3,0
+324,"callas, r. l.",,3,4,2,95,3,0
+327,"cameron, alan d.",,3,3,1,3,3,0
+335,"cannon, jeffery b.",,3,3,1,0,3,0
+346,"carrillo-percastegui, samia e.",,3,3,1,113,3,0
+352,"carvalho jr, elildo a. r.",,3,3,1,1,3,0
+363,"cavada, nathalie",,3,3,1,19,3,0
+368,"chabot, eric j.",,3,3,1,0,3,0
+372,"chan, kai m. a.",,3,3,1,1,3,0
+378,"chaudhary, rohit",,3,3,1,0,3,0
+383,"chen, ming-hui",,3,3,1,11,3,0
+386,"cherry, michael j.",,3,3,1,0,3,0
+406,"cobb, david t.",,3,3,1,1,3,0
+410,"code, sandra",,3,3,1,9,3,0
+412,"cogalniceanu, dan",,3,3,1,7,3,0
+423,"colvin, michael e.",,3,3,1,4,3,0
+425,"comer, christopher e.",,3,3,1,35,3,0
+429,"conner, l. mike",,3,3,1,0,3,0
+430,"conner, mary m.",,3,3,1,30,3,0
+435,"conway, warren c.",,3,3,1,35,3,0
+438,"cook, jonathan d.",,3,3,1,0,3,0
+446,"cooper, w. justin",,3,3,1,10,3,0
+475,"crupi, anthony p.",,3,3,1,0,3,0
+481,"curras, mauriel rodriguez",,3,3,1,1,3,0
+487,"d'araujo couto, thiago belisario",,3,3,1,17,3,0
+492,"daily, gretchen c.",,3,3,1,9,3,0
+496,"daskin, j. h.",,3,3,1,9,3,0
+500,"david gonzalez-trujillo, juan",,3,3,1,3,3,0
+507,"davis, raymond j.",,3,3,1,2,3,0
+511,"dayton, kendra e.",,3,3,1,0,3,0
+514,"de oliveira, arthur de schramm",,3,3,1,0,3,0
+518,"de souza, diogo alexandre",,3,3,1,0,3,0
+538,"deperno, christopher s.",,3,3,1,2,3,0
+548,"dey, dipak k.",,3,3,1,11,3,0
+556,"diaz-paniagua, carmen",,3,3,1,7,3,0
+572,"dominguez, andrea f. rios",,3,3,1,10,3,0
+573,"donadio, emiliano",,3,3,1,1,3,0
+575,"donovan, therese m.",,3,3,1,10,3,0
+577,"dos santos, luane reis",,3,3,1,6,3,0
+584,"drapeau picard, andre-philippe",,3,3,1,0,3,0
+600,"duchac, leila s.",,3,3,1,2,3,0
+612,"dyck, marissa a.",,3,3,1,0,3,0
+623,"elena zaccagnini, maria",,3,3,1,26,3,0
+630,"emerson, shane a.",,3,3,1,2,3,0
+644,"evans, jason m.",,3,3,1,78,3,0
+647,"eyster, harold n.",,3,3,1,1,3,0
+649,"faisal, mohammad m.",,3,3,1,5,3,0
+665,"fattebert, julien",,3,3,1,32,3,0
+674,"fernanda saenz-escobar, m.",,3,3,1,5,3,0
+675,"fernandez-lopez, javier",,3,3,1,0,3,0
+678,"ferreira da silva, vera maria",,3,3,1,0,3,0
+699,"fleming, kathleen d.",,3,3,1,2,3,0
+707,"fogell, deborah j.",,3,3,1,5,3,0
+731,"franklin, michael j. m.",,3,6,2,7,3,0
+739,"froehly, jennifer l.",,3,3,1,6,3,0
+742,"funes, martin c.",,3,3,1,6,3,0
+747,"gade, meaghan r.",,3,3,1,0,3,0
+750,"gaigher, r.",,3,3,1,7,3,0
+752,"galetti, mauro",,3,3,1,10,3,0
+764,"garcia, karla",,3,3,1,1,3,0
+771,"garrison, elina p.",,3,3,1,0,3,0
+777,"gautier, roland",,3,3,1,129,3,0
+780,"gaynor, k. m.",,3,3,1,9,3,0
+782,"gehring, thomas m.",,3,3,1,4,3,0
+784,"gentili, rodolfo",,3,3,1,1,3,0
+786,"gervais, amelie",,3,3,1,5,3,0
+791,"gibson, dan",,3,3,1,0,3,0
+798,"gilbert, sophie l.",,3,3,1,0,3,0
+813,"goad, erica h.",,3,3,1,32,3,0
+826,"gomez, juan p.",,3,3,1,22,3,0
+828,"gomez-rodriguez, carola",,3,3,1,7,3,0
+837,"gosalbez, joaquim",,3,3,1,1,3,0
+840,"gould, philip r.",,3,3,1,0,3,0
+858,"griffiths, richard a.",,3,3,1,5,3,0
+859,"grilo, clara",,3,3,1,51,3,0
+868,"guimaraes, murilo",,3,3,1,0,3,0
+869,"guisan, antoine",,3,3,1,7,3,0
+895,"hannon, daniel r.",,3,3,1,2,3,0
+905,"hartley, alfonso zuniga",,3,3,1,113,3,0
+913,"haukos, david",,3,3,1,17,3,0
+915,"havmoller, rasmus worsoe",,3,3,1,19,3,0
+923,"heim, nicole",,3,3,1,9,3,0
+929,"henden, john-andre",,3,3,1,14,3,0
+949,"heurich, marco",,3,3,1,10,3,0
+951,"hicke, jeffrey a.",,3,3,1,10,3,0
+956,"hill, catherine m.",,3,3,1,0,3,0
+957,"hill, evan b.",,3,3,1,0,3,0
+965,"hocking, daniel j.",,3,3,1,3,3,0
+966,"hockings, kimberley j.",,3,3,1,0,3,0
+973,"holland, angela m.",,3,6,2,9,3,0
+974,"hollerbach, laura",,3,3,1,10,3,0
+980,"holmes, vaughn",,3,3,1,0,3,0
+1013,"hutto, richard l.",,3,3,1,78,3,0
+1015,"huyvaert, kathryn p.",,3,3,1,17,3,0
+1032,"jachowski, catherine m. bodinof",,3,3,1,6,3,0
+1041,"jaime zuniga-vega, j.",,3,3,1,5,3,0
+1053,"jenkins, christopher l.",,3,3,1,15,3,0
+1068,"johnson, bethany a.",,3,3,1,6,3,0
+1075,"jones, harrison h.",,3,3,1,6,3,0
+1078,"jones-farrand, d. todd",,3,3,1,4,3,0
+1080,"jorge, marcelo h.",,3,3,1,0,3,0
+1093,"kalle, riddhika",,3,3,1,18,3,0
+1100,"karenyi, natasha",,3,3,1,6,3,0
+1105,"kass, jamie m.",,3,3,1,10,3,0
+1107,"katayama, naoki",,3,3,1,4,3,0
+1108,"kauhala, k.",,3,3,1,15,3,0
+1110,"kawalkar, dhanusha",,3,3,1,1,3,0
+1113,"kazi, abduladil",,3,3,1,0,3,0
+1115,"keane, john j.",,3,3,1,9,3,0
+1138,"khandal, dharmendra",,3,3,1,0,3,0
+1153,"king, ruth",,3,3,1,12,3,0
+1157,"kinnison, michael t.",,3,3,1,0,3,0
+1166,"knight, richard l.",,3,3,1,32,3,0
+1172,"koike, fumito",,3,3,1,10,3,0
+1179,"koshida, chieko",,3,3,1,4,3,0
+1186,"kreitzman, maayan",,3,3,1,1,3,0
+1197,"kumar, n. s.",,3,3,1,38,3,0
+1199,"kuo, rita c.",,3,3,1,11,3,0
+1200,"kupferman, caitlin a.",,3,3,1,0,3,0
+1204,"la haye, maurice j. j.",,3,3,1,10,3,0
+1206,"ladle, andrew",,3,3,1,30,3,0
+1215,"lambin, x.",,3,4,2,16,3,0
+1219,"landers, r. h.",,3,3,1,21,3,0
+1220,"langeland, knut",,3,3,1,14,3,0
+1228,"larrivee, maxim",,3,3,1,0,3,0
+1232,"lawson, charles k.",,3,3,1,3,3,0
+1234,"leberg, paul l.",,3,3,1,2,3,0
+1235,"lebrun, jaymi j.",,3,3,1,1,3,0
+1256,"lewis, tania",,3,3,1,0,3,0
+1261,"li, sheng",,3,3,1,20,3,0
+1262,"li, xueyou",,3,4,2,18,3,0
+1294,"long, robert a.",,3,3,1,10,3,0
+1310,"lucherini, mauro",,3,3,1,133,3,0
+1322,"luukkonen, david r.",,3,3,1,2,3,0
+1335,"macfarlane, william w.",,3,3,1,30,3,0
+1337,"maclean, sarah a.",,3,3,1,10,3,0
+1343,"madden, hannah",,3,3,1,0,3,0
+1355,"mahajan, prashant",,3,3,1,0,3,0
+1367,"malone, kristen m.",,3,3,1,0,3,0
+1371,"manchl, shirish s.",,3,3,1,1,3,0
+1390,"marini, miguel angelo",,3,3,1,6,3,0
+1391,"marisol gonzalez, tania",,3,3,1,3,3,0
+1394,"marra, peter m.",,3,3,1,13,3,0
+1411,"martinez, jose e.",,3,3,1,16,3,0
+1417,"mashiko, miyuki",,3,3,1,4,3,0
+1424,"matias, nathalia rocha",,3,3,1,0,3,0
+1428,"matthews, s. m.",,3,3,1,21,3,0
+1429,"mattsson, brady j.",,3,3,1,80,3,0
+1445,"mccarthy, jennifer l.",,3,3,1,5,3,0
+1446,"mccarthy, kyle p.",,3,3,1,5,3,0
+1450,"mccune, frederic",,3,3,1,13,3,0
+1456,"mckelvey, kevin",,3,3,1,13,3,0
+1464,"meddens, arjan j. h.",,3,3,1,10,3,0
+1467,"melero, yolanda",,3,3,1,1,3,0
+1471,"mendes, calebe p.",,3,3,1,10,3,0
+1473,"mengel, doreen c.",,3,3,1,0,3,0
+1480,"middleton, arthur d.",,3,3,1,1,3,0
+1485,"milanovich, joseph r.",,3,3,1,3,3,0
+1488,"miller, timothy j.",,3,3,1,16,3,0
+1498,"mimnagh, niamh",,3,3,1,0,3,0
+1499,"miranda, leandro e.",,3,3,1,4,3,0
+1502,"mitai, katsushi",,3,3,1,14,3,0
+1503,"mitchell, brian r.",,3,3,1,10,3,0
+1512,"mollenhauer, robert",,3,4,2,13,3,0
+1525,"moorman, christopher e.",,3,3,1,2,3,0
+1537,"morin, dana j.",,3,3,1,1,3,0
+1539,"morrison, michael l.",,3,3,1,2,3,0
+1551,"mouser, joshua b.",,3,3,1,0,3,0
+1559,"munoz, alberto",,3,3,1,3,3,0
+1561,"murao, ryuki",,3,3,1,14,3,0
+1564,"murillo, oscar",,3,3,1,6,3,0
+1571,"murry, brent a.",,3,3,1,4,3,0
+1586,"nava, mabel",,3,3,1,1,3,0
+1592,"nel, ronel",,3,3,1,6,3,0
+1598,"newkirk, eric s.",,3,3,1,10,3,0
+1600,"newton, d. scott",,3,3,1,9,3,0
+1602,"ng, shi teng",,3,3,1,1,3,0
+1614,"nicolas bernardos, jaime",,3,3,1,26,3,0
+1618,"nienow, samuel s.",,3,3,1,1,3,0
+1619,"nijman, vincent",,3,3,1,0,3,0
+1628,"normandin, etienne",,3,3,1,13,3,0
+1633,"novaro, andres j.",,3,3,1,6,3,0
+1634,"nowak, carsten",,3,3,1,10,3,0
+1639,"nye, janet a.",,3,3,1,16,3,0
+1643,"o'bryan, christopher j.",,3,6,2,22,3,0
+1646,"o'donnell, lisa",,3,3,1,17,3,0
+1648,"o'leary, cecilia a.",,3,3,1,16,3,0
+1680,"orioli, valerio",,3,3,1,1,3,0
+1692,"ozgul, arpat",,3,3,1,7,3,0
+1697,"paczkowski, john",,3,3,1,9,3,0
+1706,"palazon, santiago",,3,3,1,1,3,0
+1714,"parker, kevin a., jr.",,3,3,1,3,3,0
+1715,"parnell, andrew",,3,3,1,0,3,0
+1726,"patel, shivkumari",,3,3,1,1,3,0
+1735,"pauli, jonathan n.",,3,3,1,1,3,0
+1748,"peele, ashley m.",,3,3,1,13,3,0
+1749,"peery, m. zachariah",,3,3,1,9,3,0
+1752,"pendergast, mary e.",,3,3,1,0,3,0
+1784,"pichorim, mauro",,3,3,1,6,3,0
+1794,"pitman, james",,3,3,1,17,3,0
+1804,"ponciano, jose m.",,3,3,1,22,3,0
+1810,"post van der burg, max",,3,3,1,9,3,0
+1813,"powell, george v. n.",,3,3,1,113,3,0
+1817,"prado, estevao",,3,3,1,0,3,0
+1818,"prange, suzanne",,3,3,1,11,3,0
+1831,"promberger-furpass, barbara",,3,3,1,0,3,0
+1835,"prugh, laura r.",,3,3,1,0,3,0
+1837,"pryke, j. s.",,3,3,1,7,3,0
+1850,"rahman, hasan a.",,3,3,1,5,3,0
+1853,"ramesh, t.",,3,4,2,35,3,0
+1854,"ramesh, tharmalingam",,3,3,1,18,3,0
+1856,"ramirez-cruz, gonzalo a.",,3,3,2,6,3,0
+1863,"rapacciuolo, g.",,3,3,1,13,3,0
+1878,"reed, sarah e.",,3,3,1,32,3,0
+1884,"reidy, jennifer l.",,3,3,1,17,3,0
+1887,"reiners, tobias erik",,3,3,1,10,3,0
+1891,"reppucci, juan",,3,3,1,133,3,0
+1892,"resh, v. h.",,3,3,1,13,3,0
+1894,"ribeiro, jose wagner, jr.",,3,3,1,23,3,0
+1900,"rich, mackenzie",,3,3,1,11,3,0
+1906,"riecke, thomas, v",,3,3,1,0,3,0
+1911,"rinehart, kurt a.",,3,3,1,10,3,0
+1915,"rivas, lorena f.",,3,3,1,6,3,0
+1916,"rivera-milan, frank f.",,3,3,1,1,3,0
+1932,"rochefort, line",,3,3,1,0,3,0
+1945,"rogers, thomas p.",,3,3,1,0,3,0
+1952,"roland, victor l.",,3,3,1,0,3,0
+1955,"romero premeaux, alexis",,3,3,1,2,3,0
+1965,"rosenlund, havard",,3,3,1,18,3,0
+1968,"ross, beth e.",,3,3,1,17,3,0
+1979,"rowinski, patryk",,3,3,1,0,3,0
+1986,"rurik, alexander j.",,3,3,1,0,3,0
+1999,"salant, nira l.",,3,3,1,30,3,0
+2009,"samways, m. j.",,3,3,1,7,3,0
+2029,"sawant, sayli",,3,3,1,1,3,0
+2036,"scharff, nikolaj",,3,3,1,19,3,0
+2042,"schlesinger, matthew d.",,3,3,1,12,3,0
+2044,"schmid, hans",,3,3,1,129,3,0
+2050,"schultz, alan d.",,3,3,1,2,3,0
+2052,"schumann, david a.",,3,3,1,4,3,0
+2053,"schut, kaj",,3,3,1,1,3,0
+2059,"scognamillo, daniel g.",,3,3,1,35,3,0
+2062,"scully, arthur e.",,3,3,1,18,3,0
+2069,"sekercioglu, cagan h.",,3,3,1,0,3,0
+2071,"selonen, v.",,3,3,1,15,3,0
+2093,"shepherd, brenda",,3,3,1,30,3,0
+2095,"sherry, thomas w.",,3,3,1,13,3,0
+2117,"simal, fernando",,3,3,1,1,3,0
+2123,"sink, kerry",,3,3,1,6,3,0
+2124,"siqueira, tadeu",,3,3,1,23,3,0
+2132,"smith, david a. ehlers",,3,3,1,23,3,0
+2138,"smith, yvette c. ehlers",,3,3,1,23,3,0
+2145,"solano-zavaleta, israel",,3,3,1,5,3,0
+2149,"sousa goncalves, andre luis",,3,3,1,0,3,0
+2152,"sparkman, amanda m.",,3,3,1,0,3,0
+2163,"srivastava, diane s.",,3,3,1,1,3,0
+2178,"stevenson, dirk j.",,3,3,1,15,3,0
+2217,"swallow, ben",,3,3,1,12,3,0
+2221,"swartz, leah k.",,3,3,1,3,3,0
+2225,"sytsma, mira l. t.",,3,3,1,0,3,0
+2230,"taki, hisatomo",,3,3,1,14,3,0
+2235,"tandin, tandin",,3,3,1,11,3,0
+2242,"tegeler, amy k.",,3,3,1,6,3,0
+2252,"tetsuya, tatsuyuki",,3,3,1,10,3,0
+2267,"thompson, cassandra",,3,3,1,11,3,0
+2274,"thornton, jamie e.",,3,6,2,22,3,0
+2288,"toms, mike p.",,3,3,1,12,3,0
+2309,"tyre, andrew j.",,3,3,1,9,3,0
+2312,"tzilkowski, caleb j.",,3,3,1,80,3,0
+2320,"uzarski, donald g.",,3,3,1,4,3,0
+2328,"van den burg, matthijs p.",,3,3,1,0,3,0
+2330,"van der meij, tom",,3,3,1,10,3,0
+2335,"van schalkwyk, j.",,3,3,1,7,3,0
+2339,"van wagensveld, timothy p.",,3,3,1,0,3,0
+2358,"verbyla, david l.",,3,3,1,3,3,0
+2359,"vercauteren, tammy",,3,3,1,9,3,0
+2362,"verrastro, laura",,3,3,1,0,3,0
+2367,"vicente, joaquin",,3,3,1,0,3,0
+2372,"villar, nacho",,3,3,1,10,3,0
+2380,"von muhlen, eduardo matheus",,3,3,1,0,3,0
+2386,"waits, lisette p.",,3,3,1,0,3,0
+2388,"walker, r. susan",,3,3,1,6,3,0
+2395,"wang, dajun",,3,3,1,20,3,0
+2401,"wang, xia",,3,3,1,11,3,0
+2403,"wangdi, sonam",,3,3,1,11,3,0
+2404,"wann, gregory t.",,3,3,1,12,3,0
+2430,"wesolowski, tomasz",,3,3,1,0,3,0
+2449,"wilk, andrew j.",,3,3,1,0,3,0
+2455,"williams, lori a.",,3,3,1,3,3,0
+2456,"williams, perry j.",,3,3,1,23,3,0
+2459,"williams, steven g.",,3,3,1,1,3,0
+2463,"wilmoth, seth c.",,3,3,1,0,3,0
+2476,"wolska, alicja",,3,3,1,0,3,0
+2477,"womack-bulliner, kathryn m.",,3,3,1,1,3,0
+2478,"womble, jamie n.",,3,3,1,23,3,0
+2482,"wood, connor m.",,3,3,1,9,3,0
+2510,"yirka, liani m.",,3,3,1,1,3,0
+2512,"york, geneva",,3,3,1,0,3,0
+2517,"zanin hegel, carla grasiele",,3,3,1,6,3,0
+2520,"zappalla, angela",,3,3,1,5,3,0
+2523,"zeilinger, a. r.",,3,3,1,13,3,0
+2539,"zuanon, jansen",,3,3,1,17,3,0
+48,"amir, zachary",,2,2,1,0,2,0
+54,"andersen, david e.",,2,2,1,14,2,0
+57,"anderson, kaitlyn",,2,2,1,0,2,0
+73,"aragon, susan",,2,2,1,11,2,0
+77,"arias, laura n. cespedes",,2,2,1,1,2,0
+106,"balaguera-reina, sergio a.",,2,2,1,1,2,0
+118,"barao-nobrega, jose antonio lemos",,2,2,1,2,2,0
+120,"baribeau, aimie",,2,2,1,0,2,0
+122,"barik, souvik",,2,2,1,0,2,0
+150,"bedoya-duran, maria juliana",,2,2,1,1,2,0
+155,"beilke, stephanie",,2,2,1,0,2,0
+162,"bellier, edwige",,2,2,1,7,2,0
+170,"benoit, david",,2,2,1,13,2,0
+191,"bicca-marques, julio cesar",,2,2,1,11,2,0
+221,"blum, annalise g.",,2,2,1,17,2,0
+239,"bonnot, thomas w.",,2,2,1,2,2,0
+251,"bouley, paola",,2,2,1,10,2,0
+315,"buzzard, paul j.",,2,2,1,3,2,0
+326,"cam, emmanuelle",,2,2,1,78,2,0
+353,"cashins, scott d.",,2,2,1,4,2,0
+381,"chen, daojian",,2,2,1,0,2,0
+396,"clark, darren a.",,2,2,1,37,2,0
+444,"coop, jonathan d.",,2,2,1,2,2,0
+453,"costa lima pequeno, pedro aurelio",,2,2,1,4,2,0
+457,"cote, steeve d.",,2,2,1,0,2,0
+472,"crovetto, federico",,2,2,1,4,2,0
+474,"cruickshank, sam s.",,2,2,1,4,2,0
+532,"deluca, william v.",,2,3,2,30,2,0
+537,"densmore, llewellyn d.",,2,2,1,1,2,0
+545,"dewan, amielle",,2,2,1,233,2,0
+547,"dextrase, alan j.",,2,2,1,5,2,0
+555,"dias, douglas de matos",,2,2,1,7,2,0
+563,"dinsmore, stephen j.",,2,2,1,12,2,0
+564,"distiller, greg",,2,2,1,1,2,0
+579,"drake, d. andrew r.",,2,2,1,5,2,0
+582,"drake, joseph",,2,2,1,0,2,0
+583,"drake, kiel l.",,2,2,1,15,2,0
+593,"drouilly, marine",,2,2,1,25,2,0
+602,"duclos, timothy r.",,2,2,1,17,2,0
+608,"dupuis, jerome a.",,2,2,1,2,2,0
+610,"durso, a. m.",,2,2,1,22,2,0
+611,"dybala, kristen e.",,2,2,1,10,2,0
+616,"easter, tara",,2,2,1,10,2,0
+617,"eaton, mitchell j.",,2,2,1,5,2,0
+629,"elston, d. a.",,2,2,1,16,2,0
+633,"engilis, andrew, jr.",,2,2,1,10,2,0
+648,"fagan, william f.",,2,2,1,85,2,0
+651,"falconer, c. myles",,2,2,1,15,2,0
+668,"fay, gavin",,2,2,1,2,2,0
+687,"figura, peter j.",,2,2,1,6,2,0
+692,"fischer, richard a.",,2,2,1,31,2,0
+693,"fisher, alina c.",,2,2,1,10,2,0
+700,"fleming, tracy l.",,2,2,1,27,2,0
+730,"franklin, elizabeth",,2,2,1,4,2,0
+734,"frey, sarah j. k.",,2,2,1,40,2,0
+785,"george, t. luke",,2,2,1,16,2,0
+802,"gilliland, scott g.",,2,2,1,2,2,0
+811,"glorioso, brad m.",,2,2,1,11,2,0
+823,"golding, jessie d.",,2,2,1,8,2,0
+831,"gonzalez-jauregui, mauricio",,2,2,1,2,2,0
+841,"govindan, byju n.",,2,3,2,21,2,0
+852,"green, linda e.",,2,2,1,39,2,0
+867,"guimaraes rodrigues, flavio henrique",,2,2,1,7,2,0
+875,"hadley, adam s.",,2,2,1,40,2,0
+879,"halbur, michelle",,2,2,1,0,2,0
+888,"hammerich, steven",,2,2,1,0,2,0
+914,"haulton, g. scott",,2,2,1,8,2,0
+918,"heath, julie a.",,2,2,1,31,2,0
+932,"hennenlan, carlene",,2,2,1,14,2,0
+958,"hill, jason m.",,2,2,2,16,2,0
+989,"howe, fp",,2,2,1,106,2,0
+1004,"hunt, jason w.",,2,2,1,23,2,0
+1005,"hunte, wayne",,2,2,1,10,2,0
+1009,"hurlbert, allen h.",,2,2,1,9,2,0
+1018,"iglecia, monica n.",,2,2,1,15,2,0
+1024,"irizarry, julissa i.",,2,2,1,12,2,0
+1026,"irwin, larry l.",,2,2,1,27,2,0
+1036,"jackson, donald a.",,2,2,1,13,2,0
+1042,"jamtsho, rinzin",,2,2,1,2,2,0
+1051,"jehle, robert",,2,2,1,2,2,0
+1055,"jepsen, jane uhd",,2,2,1,5,2,0
+1057,"jha, ashish",,2,2,1,1,2,0
+1060,"jiang, xuelong",,2,2,1,15,2,0
+1061,"jimenez, jaime e.",,2,2,1,1,2,0
+1065,"joachim, jean",,2,2,1,2,2,0
+1087,"kachel, shannon",,2,2,1,0,2,0
+1127,"kennedy, christina m.",,2,2,1,6,2,0
+1163,"kleeman, patrick m.",,2,2,1,0,2,0
+1175,"kolowski, joseph m.",,2,2,1,15,2,0
+1184,"kramer, donald l.",,2,2,1,10,2,0
+1195,"kuhns, andrew r.",,2,2,1,37,2,0
+1196,"kulavmode, amol r.",,2,2,1,4,2,0
+1213,"lamb, jennifer y.",,2,2,1,2,2,0
+1218,"lamothe, karl a.",,2,2,1,5,2,0
+1282,"lizcano, diego",,2,2,1,113,2,0
+1288,"loeb, susan c.",,2,2,1,4,2,0
+1305,"lowe, winsor h.",,2,2,1,39,2,0
+1319,"luskin, matthew scott",,2,2,1,0,2,0
+1332,"maccluskie, margaret c.",,2,2,1,49,2,0
+1351,"magee, patrick a.",,2,2,1,2,2,0
+1360,"mahony, michael j.",,2,2,1,5,2,0
+1365,"malhotra, rumaan",,2,2,1,1,2,0
+1370,"manakadan, ranjit",,2,2,1,4,2,0
+1383,"maphisa, david h.",,2,2,1,6,2,0
+1384,"maragliano, rene e.",,2,2,1,7,2,0
+1401,"martin, roy w.",,2,2,1,9,2,0
+1436,"mazumdar, subhendu",,2,2,1,0,2,0
+1442,"mccaffery, rebecca",,2,3,2,34,2,0
+1454,"mcintyre, carol l.",,2,2,1,49,2,0
+1457,"mckerrow, alexa j.",,2,2,1,15,2,0
+1459,"mcleod, mary anne",,2,2,1,14,2,0
+1518,"montalti, diego",,2,2,1,7,2,0
+1542,"morton, douglas c.",,2,2,1,12,2,0
+1565,"murillo-garcia, oscar e.",,2,2,1,1,2,0
+1580,"nameer, p. o.",,2,2,1,1,2,0
+1582,"narango, desiree l.",,2,2,1,72,2,0
+1585,"natalia serafini, vanesa",,2,2,1,12,2,0
+1587,"naveda-rodriguez, adrian",,2,2,1,1,2,0
+1606,"ngoprasert, dusit",,2,2,1,1,2,0
+1612,"nicholson, kerry l.",,2,2,1,6,2,0
+1613,"nicklen, e. fleur",,2,2,1,44,2,0
+1626,"norkko, alf",,2,2,1,10,2,0
+1627,"norkko, joanna",,2,2,1,10,2,0
+1629,"norton, roy a.",,2,2,1,4,2,0
+1630,"norvell, re",,2,2,1,106,2,0
+1636,"nunes, laura a.",,2,2,1,0,2,0
+1668,"oley, josephine",,2,2,1,15,2,0
+1672,"oliver, katie",,2,2,1,1,2,0
+1678,"oneto, fabrizio",,2,2,1,12,2,0
+1687,"ott, james r.",,2,2,1,23,2,0
+1688,"otto, clint r. v.",,2,2,1,27,2,0
+1703,"palacio, facundo xavier",,2,2,1,7,2,0
+1718,"parrish, jr",,2,2,1,106,2,0
+1729,"patten, kirk a.",,2,2,1,9,2,0
+1730,"patton, philip t.",,2,2,1,0,2,0
+1734,"pauli, benjamin p.",,2,2,1,8,2,0
+1745,"peach, michelle a.",,2,2,1,10,2,0
+1780,"philips, annie",,2,2,1,4,2,0
+1819,"praveen, j.",,2,2,1,1,2,0
+1841,"qualls, carl p.",,2,2,1,2,2,0
+1846,"rabelo, rafael m.",,2,2,1,11,2,0
+1849,"rahlin, anastasia a.",,2,2,1,0,2,0
+1864,"rappaport, danielle, i",,2,2,1,12,2,0
+1876,"reed, eric t.",,2,2,1,2,2,0
+1896,"ribic, christine a.",,2,2,1,0,2,0
+1905,"ridgway, mark s.",,2,2,1,13,2,0
+1918,"roach, melissa c.",,2,2,1,2,2,0
+1951,"roland, carl a.",,2,2,1,44,2,0
+1961,"rose, jonathan p.",,2,2,1,0,2,0
+1980,"roy, christian",,2,2,1,2,2,0
+1998,"saha, goutam kumar",,2,2,1,0,2,0
+2019,"saracco, james f.",,2,2,1,41,2,0
+2023,"sauder, joel d.",,2,2,1,6,2,0
+2096,"sherub, sherub",,2,2,1,2,2,0
+2100,"shokirov, qobiljon",,2,2,1,0,2,0
+2114,"silva, tammy l.",,2,2,1,2,2,0
+2125,"skerratt, lee f.",,2,2,1,4,2,0
+2129,"smit-robinson, hanneline",,2,2,1,6,2,0
+2140,"snell taylor, sara",,2,2,1,9,2,0
+2208,"sun, ping",,2,2,1,1,2,0
+2234,"tallamy, douglas w.",,2,2,1,72,2,0
+2241,"teets, katherine d.",,2,2,1,4,2,0
+2268,"thompson, f. r., iii",,2,2,1,63,2,0
+2292,"townsend, susan e.",,2,2,1,0,2,0
+2293,"tozer, douglas c.",,2,2,1,15,2,0
+2297,"tremblay, jean-pierre",,2,2,1,0,2,0
+2300,"truan, melanie l.",,2,2,1,10,2,0
+2314,"umbanhowar, james",,2,2,1,9,2,0
+2315,"umuntunundi, prosper",,2,2,1,1,2,0
+2318,"utreras b, victor",,2,2,1,1,2,0
+2321,"valanko, sebastian",,2,2,1,10,2,0
+2327,"valles, henri",,2,2,1,10,2,0
+2338,"van swaay, chris a. m.",,2,2,1,236,2,0
+2348,"vargas-castillo, alfredo",,2,2,1,1,2,0
+2373,"vindstad, ole petter laksforsmo",,2,2,1,5,2,0
+2378,"volpe, john p.",,2,2,1,10,2,0
+2415,"webber, alyson f.",,2,2,1,31,2,0
+2434,"wheatley, matthew",,2,2,1,17,2,0
+2448,"wiley, david n.",,2,2,1,2,2,0
+2461,"willson, j. d.",,2,2,1,22,2,0
+2465,"wilson, scott",,2,2,1,1,2,0
+2471,"winne, c. t.",,2,2,1,22,2,0
+2486,"woodford, luke p.",,2,2,1,14,2,0
+2487,"woodgate, zoe",,2,2,1,1,2,0
+2492,"wronski, torsten",,2,2,1,1,2,0
+2519,"zapata-rios, galo",,2,2,1,1,2,0
+2537,"zollner, patrick a.",,2,2,1,8,2,0
+2541,"zulian, viviane",,2,2,1,9,2,0
+30,"alexander, bradley w.",,1,1,1,10,1,0
+49,"amrhein, valentin",,1,1,1,13,1,0
+55,"andersen, erik m.",,1,1,1,16,1,0
+92,"ausband, david e.",,1,1,1,0,1,0
+147,"beasley, emily m.",,1,1,1,3,1,0
+211,"blanco, cristina m.",,1,1,1,3,1,0
+235,"bond, monica l.",,1,1,1,35,1,0
+246,"bortolotti, gr",,1,1,1,17,1,0
+257,"bradbury, steve",,1,1,1,25,1,0
+308,"burnett, ryan d.",,1,1,1,14,1,0
+359,"castleberry, steven b.",,1,1,1,19,1,0
+398,"clement, matthew j.",,1,1,1,19,1,0
+471,"crosby, andrew d.",,1,1,1,3,1,0
+478,"cumming, graeme s.",,1,1,1,1,1,0
+489,"da costa, cintia fernanda",,1,1,1,0,1,0
+491,"dail, d.",,1,2,2,253,1,0
+494,"danielson, brent j.",,1,1,1,3,1,0
+510,"dawson, rd",,1,1,1,17,1,0
+525,"deepak, v.",,1,1,1,1,1,0
+541,"dertien, jeremy s.",,1,1,1,0,1,0
+561,"diefenbach, duane r.",,1,1,1,8,1,0
+591,"driscoll, don a.",,1,1,1,9,1,0
+601,"duckworth, gregory d.",,1,1,1,7,1,0
+637,"erickson, kelley d.",,1,1,1,11,1,0
+653,"falcy, matthew r.",,1,1,1,3,1,0
+735,"frimpong, emmanuel a.",,1,1,1,27,1,0
+757,"gamez, siria",,1,1,1,5,1,0
+759,"gantchoff, m. g.",,1,1,1,11,1,0
+770,"garrie, jorista",,1,1,1,3,1,0
+871,"gustafson, kyle d.",,1,1,1,4,1,0
+902,"harris, scott h.",,1,1,1,6,1,0
+916,"haxton, t. j.",,1,1,1,12,1,0
+933,"henry, dominic a. w.",,1,1,1,1,1,0
+936,"hepp, gary r.",,1,1,1,10,1,0
+998,"hubbell, stephen p.",,1,1,1,18,1,0
+1120,"kellner, james r.",,1,1,1,18,1,0
+1159,"kirsch, joseph e.",,1,1,1,16,1,0
+1162,"kittur, swati a.",,1,1,1,17,1,0
+1167,"knutson, melinda g.",,1,1,1,54,1,0
+1177,"koper, nicola",,1,1,1,3,1,0
+1189,"krohner, jessica m.",,1,1,1,0,1,0
+1237,"lee, derek e.",,1,1,1,35,1,0
+1252,"leston, lionel f. v.",,1,1,1,3,1,0
+1281,"lituma, christopher m.",,1,1,1,13,1,0
+1286,"lloyd, john d.",,1,1,1,8,1,0
+1295,"longoria, meredith p.",,1,1,1,9,1,0
+1346,"madsen, l.",,1,2,2,253,1,0
+1357,"maher, sean p.",,1,1,1,3,1,0
+1443,"mccain, christy m.",,1,1,1,16,1,0
+1453,"mcgrann, michael c.",,1,2,2,31,1,0
+1482,"midway, stephen r.",,1,1,1,12,1,0
+1521,"moore, j. e.",,1,1,1,99,1,0
+1543,"mos, jeroen",,1,1,1,12,1,0
+1599,"newman, robert a.",,1,1,1,4,1,0
+1601,"ng, katherina",,1,1,1,9,1,0
+1666,"okes, nicola c.",,1,1,1,6,1,0
+1699,"padilla, benjamin j.",,1,1,1,0,1,0
+1709,"pangau-adam, margaretha z.",,1,1,1,1,1,0
+1756,"peoples, brandon k.",,1,1,1,27,1,0
+1759,"pereira, maria joao ramos",,1,1,1,0,1,0
+1883,"reid, s. m.",,1,1,1,12,1,0
+1919,"roach, nicolette s.",,1,1,1,17,1,0
+1922,"roberts, l. jay",,1,1,1,14,1,0
+1938,"rodger, anthony w.",,1,1,1,0,1,0
+1966,"rosenstock, steven s.",,1,1,1,8,1,0
+1974,"roth, tobias",,1,1,1,13,1,0
+2111,"sikora, arkadiusz",,1,1,1,0,1,0
+2130,"smith, adam b.",,1,1,1,11,1,0
+2137,"smith, matthew m.",,1,1,1,10,1,0
+2168,"starks, trevor a.",,1,1,1,0,1,0
+2172,"steidl, robert j.",,1,1,1,16,1,0
+2211,"sundar, k. s. gopi",,1,1,1,17,1,0
+2227,"szewczyk, tim m.",,1,1,1,16,1,0
+2246,"tempel, douglas j.",,1,1,1,47,1,0
+2263,"thogmartin, wayne e.",,1,1,2,64,1,0
+2285,"tolliver, james d. m.",,1,1,1,0,1,0
+2352,"vasudevan, karthikeyan",,1,1,1,1,1,0
+2536,"zobell, vanessa m.",,1,1,1,1,1,0
+792,"gibson, lesley a.",,0,0,1,12,0,0
+1290,"logan, mary kotschwar",,0,0,1,6,0,0
+1312,"luiselli, luca",,0,0,1,43,0,0
+2417,"wedderburn, scotte d.",,0,0,1,6,0,0
