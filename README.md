@@ -1,1 +1,1 @@
-Data used in an articles submitted to Global Ecology and Conservation
+Data used in article submitted to Global Ecology and Conservation
