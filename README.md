@@ -1,1 +1,11 @@
-Data used in an article submitted to Global Ecology and Conservation
+Data used in the article Occupancy and N-mixture modeling applications in ecology: A bibliometric analysis
+
+Laurentiu Rozylowicz, Viorel D. Popescu, Steluta Manolache, Andreea Nita, Simona R. Gradinaru, Marian D. Mirea, Raluca I. Bancila,
+Occupancy and N-mixture modeling applications in ecology: A bibliometric analysis,
+Global Ecology and Conservation,
+2024,
+e02838,
+https://doi.org/10.1016/j.gecco.2024.e02838.
+(https://www.sciencedirect.com/science/article/pii/S2351989424000428)
+Abstract: The rapid decline in global biodiversity underscores the critical need for comprehensive monitoring of wildlife distribution and abundance. This study explores the trends in applied hierarchical modeling, which is an important tool in addressing these conservation challenges. By analyzing a dataset of 697 peer-reviewed articles published between 2002 and 2022, we examine the taxonomic focus, detection procedures, study designs, and modeling choices within the field of population ecology. Our findings revealed that most studies concentrated on single taxonomic groups, particularly mammals and birds. Data collection methods included visual surveys, acoustic surveys, camera traps, and traps, with some studies combining multiple techniques. Notably, the United States dominated the geographical focus, accounting for 46% of published papers. In terms of modeling approaches, single-season occupancy was the most prevalent, followed by various other models, including multi-species occupancy and N-mixture models. While hierarchical modeling has gained popularity, citations for these articles remained relatively modest, with only a few achieving over 100 citations. Authorship analysis revealed a highly collaborative network of researchers, with key authors contributing significantly to the field’s development and dissemination. Co-authorship and co-citation networks highlighted the importance of authors who can bridge differing scientific groups and those that have made substantial contributions to hierarchical modeling methods. Despite its growth, the field faces challenges related to standardization in modeling and reporting practices. While efforts to address these issues are currently underway, a cohesive framework for occupancy modeling in ecology is still in an emerging stage.
+Keywords: hierarchical modeling; n-mixture models; occupancy models; bibliometric networks; bibliometric review
